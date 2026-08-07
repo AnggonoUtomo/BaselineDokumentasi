@@ -1,12 +1,12 @@
-# Traceability Matrix
+# Traceability matriks
 
-| Requirement | Business rule | Feature | ADR/design | Task | Test | Release | Status |
+| requirement | bisnis aturan | fitur | ADR/design | Task | pengujian | rilis | status |
 |---|---|---|---|---|---|---|---|
 
-## Orphan checks
+## Orphan pemeriksaan
 
-- Requirements without features:
-- Features without requirements:
-- Tasks without approved feature/spec:
-- Requirements without tests:
-- Released items without evidence:
+- requirement tanpa fitur:
+- fitur tanpa requirement:
+- Tasks tanpa disetujui feature/spec:
+- requirement tanpa pengujian:
+- Released item tanpa bukti:

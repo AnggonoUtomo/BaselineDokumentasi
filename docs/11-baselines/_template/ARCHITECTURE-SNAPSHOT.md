@@ -1,5 +1,5 @@
-# Architecture Snapshot
+# Snapshot Arsitektur
 
-> Boundaries, contracts, dependencies, deployment and accepted ADR state.
+> Boundary, kontrak, dependensi, deployment, dan status ADR yang berlaku.
 
-## Snapshot Data
+## Data Snapshot

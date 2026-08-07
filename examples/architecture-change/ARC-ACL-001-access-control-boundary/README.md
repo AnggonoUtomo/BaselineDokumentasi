@@ -1,4 +1,4 @@
-# ARC-ACL-001 — Introduce AccessControl Boundary
+# ARC-ACL-001 — Menambahkan Boundary AccessControl
 
 ```yaml
 id: ARC-ACL-001
@@ -11,7 +11,7 @@ depends_on: []
 related_adrs: [ADR-0012]
 ```
 
-## Candidate Child Modules
+## Kandidat Module Turunan
 
 - `MOD-ACL-IDN` — Identity
 - `MOD-ACL-AUT` — Authentication
@@ -21,4 +21,4 @@ related_adrs: [ADR-0012]
 - `MOD-ACL-SES` — Session Management
 - `MOD-ACL-AUD` — Access Audit
 
-These are candidates, not automatic implementation scope. The proposal must decide which are accepted, deferred, merged, or rejected.
+Semua module di atas masih berstatus kandidat dan tidak otomatis menjadi scope implementasi. Proposal wajib menentukan mana yang diterima, ditunda, digabung, atau ditolak.

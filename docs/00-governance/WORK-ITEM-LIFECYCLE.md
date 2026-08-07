@@ -1,29 +1,29 @@
-# Work Item Lifecycle
+# pekerjaan item lifecycle
 
-## States
+## Status
 
 `discovered → proposed → approved → ready → in_progress → implemented → verified → completed → archived`
 
-Optional states: `blocked`, `deferred`, `rejected`, `cancelled`, `superseded`.
+opsional states: `blocked`, `deferred`, `rejected`, `cancelled`, `superseded`.
 
-## Transition Rules
+## transisi aturan
 
-| From | To | Required evidence |
+| dari | untuk | wajib bukti |
 |---|---|---|
-| discovered | proposed | Discovery/problem record |
-| proposed | approved | Scope, impact, decision owner |
-| approved | ready | Definition of Ready satisfied |
-| ready | in_progress | Active task selected and context pack prepared |
-| in_progress | implemented | Code/config/docs produced; no completion claim yet |
-| implemented | verified | Required tests/checks pass |
-| verified | completed | Review, completion report, baseline sync |
-| completed | archived | Release/reference recorded |
+| ditemukan | diusulkan | Discovery/problem catat |
+| diusulkan | disetujui | Ruang Lingkup, dampak, keputusan pemilik |
+| disetujui | siap | definisi of Ready terpenuhi |
+| siap | in_progress | aktif task selected dan konteks paket prepared |
+| in_progress | diimplementasikan | kode/config/docs dihasilkan; tidak ada penyelesaian klaim belum |
+| diimplementasikan | diverifikasi | wajib pengujian/pemeriksaan lulus |
+| diverifikasi | selesai | review, penyelesaian laporan, baseline sync |
+| selesai | archived | rilis/referensi dicatat |
 
-Forbidden shortcuts include `proposed → in_progress`, `implemented → completed`, and `blocked → completed`.
+dilarang shortcuts sertakan `proposed → in_progress`, `implemented → completed`, dan `blocked → completed`.
 
 ## Metadata
 
-Every work-item root document must contain:
+setiap work item induk dokumen wajib memuat:
 
 ```yaml
 id: WI-AREA-NNN

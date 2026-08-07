@@ -1,6 +1,6 @@
-# 03 Implementation Plan
+# 03 Rencana Implementasi
 
-> Required focus: Small reversible transformations and checkpoints.
+> Fokus wajib: kecil reversible transformations dan checkpoints.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

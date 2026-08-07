@@ -1,6 +1,6 @@
-# 03 Data Quality Assessment
+# 03 Penilaian Kualitas Data
 
-> Required focus: Completeness, validity, duplicates, referential integrity and remediation.
+> Fokus wajib: kelengkapan, validitas, duplikasi, integritas referensial, dan remediation.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

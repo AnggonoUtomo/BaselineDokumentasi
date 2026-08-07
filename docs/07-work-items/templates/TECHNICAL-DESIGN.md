@@ -1,17 +1,17 @@
-# Feature Technical Design
+# fitur teknis Design
 
-## Feature ID
+## fitur ID
 
-## Existing behavior and repository evidence
+## eksisting perilaku dan repository bukti
 
-## Proposed behavior
+## diusulkan perilaku
 
-## Components/files affected
+## Components/file terdampak
 
-| Component/path | Change | Reason |
+| Component/path | perubahan | alasan |
 |---|---|---|
 
-## Design and flow
+## Design dan flow
 
 ```mermaid
 sequenceDiagram
@@ -25,26 +25,26 @@ sequenceDiagram
   App-->>UI: Result
 ```
 
-## Domain/module boundary impact
+## Domain/module boundary dampak
 
-## Data model and migration
+## data model dan migrasi
 
-## API/contracts/events
+## API/kontrak/events
 
-## Validation and error handling
+## validasi dan error penanganan
 
-## Authorization and security
+## Authorization dan keamanan
 
 ## Concurrency/idempotency
 
-## Performance
+## performa
 
-## Testing approach
+## pengujian pendekatan
 
-## Compatibility
+## kompatibilitas
 
-## Deployment and rollback
+## deployment dan rollback
 
-## Alternatives considered
+## Alternatif yang Dipertimbangkan
 
-## Required ADRs
+## wajib ADRs

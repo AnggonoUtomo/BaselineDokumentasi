@@ -1,6 +1,6 @@
-# 02 Root Cause Analysis
+# 02 Analisis Akar Masalah
 
-> Required focus: Failure chain, root cause, contributing factors, escape analysis and blast radius.
+> Fokus wajib: rantai kegagalan, akar penyebab, faktor pendukung, escape analysis, dan blast radius.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

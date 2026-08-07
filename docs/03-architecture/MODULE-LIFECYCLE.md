@@ -1,14 +1,14 @@
-# Module Lifecycle
+# Module lifecycle
 
-States: `candidate → accepted → active → stable → deprecated → retired`.
+Status: `candidate → accepted → active → stable → deprecated → retired`.
 
-| State | Meaning | Allowed implementation |
+| status | Makna | Implementasi yang Diizinkan |
 |---|---|---|
-| candidate | Investigated, not approved | No production implementation |
-| accepted | Boundary placement approved | Skeleton/planning allowed |
-| active | Under development | Incremental tasks allowed |
-| stable | Supported contract and ownership | Normal maintenance |
-| deprecated | Replacement and deadline announced | Compatibility fixes only |
-| retired | Removed from active system | Historical docs retained |
+| candidate | Diteliti, tidak disetujui | Tidak ada implementasi produksi |
+| diterima | Boundary placement disetujui | Skeleton/perencanaan diizinkan |
+| aktif | di bawah development | Incremental tasks diizinkan |
+| stabil | Didukung kontrak dan ownership | Pemeliharaan normal |
+| deprecated | Pengganti dan tenggat diumumkan | kompatibilitas perbaikan hanya |
+| dihentikan | dihapus dari aktif sistem | Dokumen historis dipertahankan |
 
-Transitions that split, merge, move, deprecate, or retire a module require an architecture-change or deprecation package.
+transisi itu pecah, gabungkan, pindahkan, deprecate, atau menghentikan module memerlukan architecture-change atau deprecation paket.

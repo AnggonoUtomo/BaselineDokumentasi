@@ -1,6 +1,6 @@
-# 07 Post Migration Report
+# 07 Laporan Pascamigrasi
 
-> Required focus: Outcome, residual issues, monitoring, cleanup and lessons.
+> Fokus wajib: hasil, masalah residual, monitoring, cleanup, dan pelajaran.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

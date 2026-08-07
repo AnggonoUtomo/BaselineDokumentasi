@@ -1,6 +1,6 @@
-# 01 Performance Problem
+# 01 Masalah Performa
 
-> Required focus: User impact, workload, SLO/target, bottleneck evidence and constraints.
+> Fokus wajib: dampak terhadap pengguna, workload, SLO/target, bukti bottleneck, dan batasan.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

@@ -1,6 +1,6 @@
-# 04 Regression Test
+# 04 Pengujian Regresi
 
-> Required focus: Test that fails before and passes after, nearby cases and test gap explanation.
+> Fokus wajib: pengujian gagal sebelum perbaikan dan lulus setelah perbaikan, kasus terkait, serta penjelasan gap pengujian sebelumnya.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

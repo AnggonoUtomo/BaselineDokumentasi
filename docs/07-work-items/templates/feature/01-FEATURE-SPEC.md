@@ -1,6 +1,6 @@
-# 01 Feature Spec
+# 01 fitur spesifikasi
 
-> Required focus: Problem, users, scope, requirements, business rules, acceptance criteria, non-goals and dependencies.
+> Fokus wajib: masalah, pengguna, scope, requirement, aturan bisnis, kriteria penerimaan, bukan tujuan dan dependensi.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

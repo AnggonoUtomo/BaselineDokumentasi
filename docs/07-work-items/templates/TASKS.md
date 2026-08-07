@@ -1,14 +1,14 @@
 # Task Breakdown
 
-## Feature
+## fitur
 
-- Feature ID:
-- Spec status:
-- Planning skill used: `planning-and-task-breakdown`
+- fitur ID:
+- spesifikasi status:
+- perencanaan skill digunakan: `planning-and-task-breakdown`
 
-## Dependency order
+## dependensi urutan
 
-| Order | Task ID | Objective | Depends on | Status |
+| urutan | Task ID | tujuan | Bergantung pada | status |
 |---:|---|---|---|---|
 
 ---
@@ -24,41 +24,41 @@ references:
   - TECHNICAL-DESIGN.md
 ```
 
-### Objective
+### tujuan
 
-One bounded outcome.
+satu terbatas hasil.
 
-### Preconditions
+### Prakondisi
 
-### Allowed changes
+### diizinkan perubahan
 
-- Paths/components that may change.
+- path/components itu boleh perubahan.
 
-### Forbidden/unrelated changes
+### dilarang/unterkait perubahan
 
-### Implementation notes
+### implementasi catatan
 
-Guidance, not unapproved code design.
+panduan, tidak unapproved kode design.
 
-### Acceptance criteria
-
-- [ ]
-
-### Required tests
+### Kriteria penerimaan
 
 - [ ]
 
-### Verification commands
+### wajib pengujian
+
+- [ ]
+
+### Verifikasi perintah
 
 ```bash
 # focused test
 # lint/type check
 ```
 
-### Completion evidence
+### penyelesaian bukti
 
-- Files changed:
-- Commands/results:
-- Deviations:
-- Risks/limitations:
-- Documentation updated:
+- file diubah:
+- perintah/hasil:
+- deviasi:
+- Risiko/limitations:
+- dokumentasi diperbarui:

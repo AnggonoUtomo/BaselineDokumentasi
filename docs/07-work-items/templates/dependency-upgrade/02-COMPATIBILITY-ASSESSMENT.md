@@ -1,6 +1,6 @@
-# 02 Compatibility Assessment
+# 02 kompatibilitas penilaian
 
-> Required focus: Breaking changes, transitive dependencies, platform/runtime and API impact.
+> Fokus wajib: breaking perubahan, transitive dependensi, platform/runtime dan API dampak.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

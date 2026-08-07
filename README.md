@@ -1,27 +1,27 @@
 # Software Engineering Operating System (SEOS)
 
-SEOS is a reusable, AI-friendly documentation and workflow baseline that lives inside a software repository. It governs work from project bootstrap through architecture evolution, incremental implementation, verification, release, operation, and historical baselines.
+SEOS adalah baseline dokumentasi dan workflow software engineering yang reusable dan AI-friendly. SEOS ditempatkan langsung di dalam repository dan mengatur pekerjaan mulai dari bootstrap proyek, perancangan, evolusi arsitektur, implementasi incremental, verifikasi, review, rilis, operasional, hingga baseline historis.
 
-## What SEOS Solves
+## Masalah yang Diselesaikan SEOS
 
-- Prevents AI or developers from coding before scope and acceptance criteria are ready
-- Handles emergent work discovered during development
-- Selects the right documentation depth for each change type and risk level
-- Preserves current project truth separately from historical change records
-- Makes completion claims evidence-based and traceable
-- Controls architectural, security, data, dependency, and breaking changes through human gates
+- Mencegah AI atau developer mulai coding sebelum scope dan kriteria penerimaan siap.
+- Menangani pekerjaan baru yang ditemukan saat development berlangsung.
+- Menentukan kedalaman dokumentasi berdasarkan jenis perubahan dan tingkat risikonya.
+- Memisahkan sumber kebenaran proyek saat ini dari catatan perubahan historis.
+- Membuat klaim penyelesaian berbasis bukti dan dapat ditelusuri.
+- Mengendalikan perubahan arsitektur, keamanan, data, dependensi, dan breaking change melalui human gate.
 
-## Start Here
+## Mulai dari Sini
 
-1. Read `AGENTS.md`.
-2. Run the instructions in `docs/00-governance/AI-PROJECT-BOOTSTRAP-PROMPT.md`.
-3. Fill baseline project documents without coding.
-4. Register future work in `docs/07-work-items/WORK-ITEM-REGISTRY.md`.
-5. Classify the change using `docs/00-governance/CHANGE-CLASSIFICATION.md`.
-6. Copy the appropriate package from `docs/07-work-items/templates/`.
-7. Satisfy Definition of Ready before coding and Definition of Done before completion.
+1. Baca `AGENTS.md`.
+2. Jalankan `docs/00-governance/AI-PROJECT-BOOTSTRAP-PROMPT.md`.
+3. Isi dokumen baseline proyek tanpa melakukan coding.
+4. Daftarkan pekerjaan baru di `docs/07-work-items/WORK-ITEM-REGISTRY.md`.
+5. Klasifikasikan perubahan menggunakan `docs/00-governance/CHANGE-CLASSIFICATION.md`.
+6. Salin paket yang sesuai dari `docs/07-work-items/templates/`.
+7. Penuhi Definition of Ready sebelum coding dan Definition of Done sebelum pekerjaan dinyatakan selesai.
 
-## Work-Item Packages
+## Paket Work Item
 
 - `feature`
 - `architecture-change`
@@ -35,27 +35,31 @@ SEOS is a reusable, AI-friendly documentation and workflow baseline that lives i
 - `deprecation-removal`
 - `incident-follow-up`
 
-Each package includes pre-work, implementation planning, post-work validation, an AI context pack, deviation record, and evidence manifest.
+Setiap paket menyediakan dokumen pra-pengerjaan, rencana implementasi, validasi pasca-pengerjaan, context pack untuk AI, catatan deviasi, dan manifest bukti.
 
-## Emergent Architecture Example
+## Contoh Evolusi Arsitektur
 
-When `AccessControl` is discovered during another task:
+Jika boundary `AccessControl` baru ditemukan ketika task lain sedang dikerjakan:
 
-1. Stop at a valid repository state.
-2. Register `ARC-ACL-001`.
-3. Copy the `architecture-change` package.
-4. Complete discovery, boundary proposal, impact assessment, and ADR.
-5. Obtain the required human approval.
-6. Create child module/feature tasks and implement vertical slices.
-7. Validate dependency direction and public contracts.
-8. Update the Boundary Registry, Module Catalog, contract documents, and evolution log.
+1. Hentikan task pada kondisi repository yang valid.
+2. Daftarkan work item, misalnya `ARC-ACL-001`.
+3. Salin paket `architecture-change`.
+4. Lengkapi discovery record, boundary proposal, impact assessment, dan ADR.
+5. Dapatkan persetujuan manusia yang diwajibkan.
+6. Buat task module/fitur turunan dan implementasikan secara incremental.
+7. Validasi arah dependensi dan kontrak publik.
+8. Perbarui Boundary Registry, Module Catalog, kontrak, dan Evolution Log.
 
-## Baseline vs Work History
+## Baseline dan Riwayat Pekerjaan
 
-- `docs/01`–`06`, `08`–`09`, and architecture registries describe current truth.
-- `docs/07-work-items` preserves why and how changes were made.
-- `docs/11-baselines` preserves immutable release/milestone snapshots.
+- `docs/01`–`06`, `08`–`09`, serta registry arsitektur menjelaskan kondisi proyek yang berlaku saat ini.
+- `docs/07-work-items` menyimpan alasan, proses, bukti, dan riwayat setiap perubahan.
+- `docs/11-baselines` menyimpan snapshot release/milestone yang bersifat historis.
 
-## Addy Osmani Agent Skills
+## Aturan Bahasa
 
-SEOS routes compatible skills by lifecycle phase. Skills assist execution; repository documents remain the source of truth. Install and maintain external skills separately.
+Semua dokumentasi SEOS dan dokumentasi proyek yang dibuat berdasarkan baseline ini wajib menggunakan Bahasa Indonesia. Istilah teknis boleh dipertahankan dalam bahasa aslinya ketika lebih tepat dan tidak ambigu.
+
+## Integrasi Agent Skills
+
+SEOS merutekan skill sesuai fase lifecycle. Skill membantu pelaksanaan pekerjaan; dokumen repository tetap menjadi sumber kebenaran. Skill eksternal dipasang dan dipelihara secara terpisah.

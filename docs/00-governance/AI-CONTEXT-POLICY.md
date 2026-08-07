@@ -1,24 +1,24 @@
-# AI Context Policy
+# AI konteks kebijakan
 
-## Goal
+## Tujuan
 
-Give an AI enough verified context to complete one task without loading the entire project or inventing missing facts.
+Give AI enough diverifikasi konteks ke selesai satu task tanpa loading seluruh proyek atau inventing missing fakta.
 
-## Required Context Pack
+## wajib konteks paket
 
-- Active task and parent work item
-- Classification and current lifecycle state
-- Relevant requirements and acceptance criteria
-- Relevant ADRs, boundary contracts, and dependency rules
-- Allowed and forbidden files/areas
-- Existing patterns to preserve
-- Verification commands
-- Known assumptions, open questions, and risks
+- aktif task dan induk pekerjaan item
+- klasifikasi dan saat ini lifecycle status
+- Relevant requirement dan kriteria penerimaan
+- Relevant ADRs, boundary kontrak, dan dependensi aturan
+- diizinkan dan dilarang file/areas
+- eksisting pola ke pertahankan
+- Verifikasi perintah
+- diketahui asumsi, pertanyaan terbuka, dan risiko
 
-## Rules
+## Aturan
 
-- One active implementation task per AI execution unless explicitly approved.
-- Prefer exact document sections and file paths over broad repository summaries.
-- Mark repository facts, assumptions, and recommendations separately.
-- Never hide discovered scope expansion; create a discovery/deviation record.
-- Context packs are disposable execution artifacts, not new sources of truth.
+- satu aktif implementasi task per AI eksekusi kecuali secara eksplisit disetujui.
+- utamakan exact dokumen bagian dan file path di atas broad repository summaries.
+- tandai repository fakta, asumsi, dan rekomendasi secara terpisah.
+- jangan pernah sembunyikan ditemukan scope expansion; buat discovery/deviation catat.
+- konteks packs adalah sementara eksekusi artefak, tidak baru sumber sumber kebenaran.

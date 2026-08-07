@@ -1,37 +1,37 @@
-# Testing Strategy
+# Strategi Pengujian
 
-## Objectives
+## tujuan
 
-## Test levels
+## pengujian levels
 
-| Level | Purpose | Scope | Tool | Required in CI |
+| tingkat | Tujuan | Ruang Lingkup | Tool | wajib di CI |
 |---|---|---|---|---|
 
-## Test selection rules
+## pengujian selection aturan
 
-- Business rules require focused unit/domain tests where appropriate.
-- Public behavior requires integration/feature tests.
-- Bug fixes require a failing regression test before or alongside the fix.
-- Critical user journeys require end-to-end coverage when feasible.
+- bisnis aturan memerlukan focused unit/domain pengujian ketika appropriate.
+- Publik perilaku memerlukan integrasi/feature pengujian.
+- bug perbaikan memerlukan failing regresi pengujian sebelum atau alongside perbaikan.
+- kritis pengguna journeys memerlukan end-to-end coverage ketika feasible.
 
-## Test data
+## pengujian data
 
-## Isolation and external services
+## Isolation dan eksternal services
 
-## Security testing
+## keamanan pengujian
 
-## Performance testing
+## performa pengujian
 
-## Quality gates
+## kualitas gate
 
-| Gate | Command/check | Blocking threshold |
+| gate | perintah/periksa | Blocking threshold |
 |---|---|---|
 
-## Flaky test policy
+## Flaky pengujian kebijakan
 
-Do not retry away unexplained failures. Record owner, cause hypothesis, and corrective task.
+ tidak retry away unexplained kegagalan. catat pemilik, cause hypothesis, dan corrective task.
 
-## Evidence format
+## Bukti format
 
 ```text
 Command:

@@ -1,13 +1,13 @@
-# Bug Fix Package
+# Paket Perbaikan Bug
 
-Use this package for `bug-fix` work. Copy the entire directory into the matching work-item collection and replace all placeholders.
+Gunakan paket ini untuk pekerjaan `bug-fix`. Salin seluruh direktori ke koleksi work item yang sesuai dan ganti semua placeholder.
 
-## Required sequence
+## Urutan Wajib
 
-1. `01-BUG-REPORT.md` — Observed/expected behavior, environment, reproduction, severity, affected versions and evidence.
-2. `02-ROOT-CAUSE-ANALYSIS.md` — Failure chain, root cause, contributing factors, escape analysis and blast radius.
-3. `03-FIX-PLAN.md` — Minimal safe fix, alternatives, compatibility, rollback and affected files.
-4. `04-REGRESSION-TEST.md` — Test that fails before and passes after, nearby cases and test gap explanation.
-5. `05-VERIFICATION-REPORT.md` — Reproduction result, checks, side effects, deployment observation and closure.
+1. `01-BUG-REPORT.md` — perilaku aktual dan yang diharapkan, environment, reproduksi, tingkat keparahan, versi terdampak, dan bukti.
+2. `02-ROOT-CAUSE-ANALYSIS.md` — rantai kegagalan, akar penyebab, faktor pendukung, escape analysis, dan blast radius.
+3. `03-FIX-PLAN.md` — perbaikan aman minimum, alternatif, kompatibilitas, rollback, dan file terdampak.
+4. `04-REGRESSION-TEST.md` — pengujian gagal sebelum perbaikan dan lulus setelah perbaikan, kasus terkait, dan gap pengujian sebelumnya.
+5. `05-VERIFICATION-REPORT.md` — hasil reproduksi, pemeriksaan, efek samping, observasi deployment, dan penutupan.
 
-Also add `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` when needed, and `EVIDENCE-MANIFEST.md` before completion.
+Tambahkan juga `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` bila diperlukan, serta `EVIDENCE-MANIFEST.md` sebelum pekerjaan berstatus selesai.

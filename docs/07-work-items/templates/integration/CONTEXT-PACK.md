@@ -1,21 +1,21 @@
-# Context Pack — <Task ID>
+# Context Pack — <ID Task>
 
-## Active Task
+## Task Aktif
 
-## Parent Work Item
+## Work Item Induk
 
-## Verified Repository Facts
+## Fakta Repository yang Terverifikasi
 
-## Requirements and Acceptance Criteria
+## Requirement dan Kriteria Penerimaan
 
-## Relevant ADRs / Contracts / Boundaries
+## ADR / Kontrak / Boundary yang Relevan
 
-## Allowed Files and Areas
+## File dan Area yang Diizinkan
 
-## Forbidden Files and Areas
+## File dan Area yang Dilarang
 
-## Existing Patterns to Preserve
+## Pola Eksisting yang Harus Dipertahankan
 
-## Verification Commands
+## Perintah Verifikasi
 
-## Assumptions / Open Questions / Risks
+## Asumsi / Pertanyaan Terbuka / Risiko

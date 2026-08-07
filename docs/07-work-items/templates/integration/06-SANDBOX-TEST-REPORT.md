@@ -1,6 +1,6 @@
-# 06 Sandbox Test Report
+# 06 Laporan Pengujian Sandbox
 
-> Required focus: Test cases, provider responses, error paths, rate limits and evidence.
+> Fokus wajib: test case, response provider, jalur error, rate limit, dan bukti.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

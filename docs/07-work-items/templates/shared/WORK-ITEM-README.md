@@ -1,4 +1,4 @@
-# <Work Item ID> — <Title>
+# <WORK ITEM ID> — <Judul>
 
 ```yaml
 id: <ID>
@@ -15,10 +15,10 @@ blocks: []
 related_adrs: []
 ```
 
-## Goal
+## Tujuan
 
 ## Scope / Non-Scope
 
-## Document Index
+## Indeks Dokumen
 
-## Current Decision / Next Action
+## Keputusan Saat Ini / Aksi Berikutnya

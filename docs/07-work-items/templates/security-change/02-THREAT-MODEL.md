@@ -1,6 +1,6 @@
-# 02 Threat Model
+# 02 Model Ancaman
 
-> Required focus: Data-flow/trust boundaries, threats, likelihood/impact, mitigations and residual risk.
+> Fokus wajib: alur data/trust boundary, ancaman, kemungkinan/dampak, mitigasi, dan risiko residual.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

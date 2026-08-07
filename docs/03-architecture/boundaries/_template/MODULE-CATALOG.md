@@ -1,4 +1,4 @@
-# Module Catalog — <Boundary>
+# Katalog Module — <Boundary>
 
-| ID | Module | Responsibility | Status | Public contract | Data owner |
+| ID | Module | Tanggung Jawab | Status | Kontrak Publik | Data yang Dimiliki |
 |---|---|---|---|---|---|

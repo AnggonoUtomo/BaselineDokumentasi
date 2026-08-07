@@ -1,5 +1,5 @@
-# Module Snapshot
+# Snapshot Module
 
-> Active modules, owners, versions/status and public surfaces.
+> Module aktif, owner, versi/status, dan surface publik.
 
-## Snapshot Data
+## Data Snapshot

@@ -1,6 +1,6 @@
-# 01 Integration Brief
+# 01 Ringkasan Integrasi
 
-> Required focus: Provider, use cases, ownership, environments, data classification, cost and constraints.
+> Fokus wajib: provider, use case, ownership, environment, klasifikasi data, biaya, dan batasan.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

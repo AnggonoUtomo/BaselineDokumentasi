@@ -1,6 +1,6 @@
-# 05 Completion Report
+# 05 Laporan Penyelesaian
 
-> Required focus: Version adopted, changes, exceptions, follow-up and registry update.
+> Fokus wajib: versi adopted, perubahan, exceptions, tindak lanjut dan registry perbarui.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

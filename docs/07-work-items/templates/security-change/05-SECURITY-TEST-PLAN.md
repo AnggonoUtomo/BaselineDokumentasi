@@ -1,6 +1,6 @@
-# 05 Security Test Plan
+# 05 Rencana Pengujian Keamanan
 
-> Required focus: Positive/negative authorization, privilege escalation, session, input and audit tests.
+> Fokus wajib: authorization positif/negatif, privilege escalation, session, input, dan audit.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

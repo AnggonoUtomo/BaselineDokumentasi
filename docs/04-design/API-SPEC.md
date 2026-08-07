@@ -1,25 +1,25 @@
-# API and Interface Specification
+# API dan antarmuka Specification
 
 ## Conventions
 
 - Protocol/style:
-- Base path/versioning:
+- Dasar path/versioning:
 - Authentication:
 - Authorization:
 - Pagination/filtering/sorting:
 - Error format:
 - Idempotency:
 
-## Interface catalog
+## antarmuka catalog
 
-| ID | Interface | Consumer | Owner | Stability | Status |
+| ID | antarmuka | Konsumen | Pemilik | stabilitas | status |
 |---|---|---|---|---|---|
 
-## Endpoint/contract template
+## Endpoint/kontrak template
 
 ### `API-AREA-NNN — METHOD /path`
 
-Purpose:
+Tujuan:
 
 Authorization:
 
@@ -37,13 +37,13 @@ Response:
 
 Errors:
 
-| Code/status | Condition | Client action |
+| kode/status | kondisi | klien aksi |
 |---|---|---|
 
-Validation rules:
+validasi aturan:
 
 Idempotency/concurrency:
 
 Observability/audit:
 
-Related requirements/tests:
+terkait requirement/pengujian:

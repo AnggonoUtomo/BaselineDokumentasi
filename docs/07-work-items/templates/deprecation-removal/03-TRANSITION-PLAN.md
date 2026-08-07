@@ -1,6 +1,6 @@
-# 03 Transition Plan
+# 03 Rencana Transisi
 
-> Required focus: Announcement, dual-run/shim, migration steps, telemetry and deadline.
+> Fokus wajib: pengumuman, dual-run/shim, langkah migrasi, telemetry, dan tenggat.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

@@ -1,6 +1,6 @@
-# 01 Incident Summary
+# 01 insiden Summary
 
-> Required focus: Timeline, user impact, severity, detection, response and resolution.
+> Fokus wajib: Timeline, pengguna dampak, tingkat keparahan, detection, response dan resolution.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

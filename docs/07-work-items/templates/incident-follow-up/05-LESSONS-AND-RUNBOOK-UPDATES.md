@@ -1,6 +1,6 @@
-# 05 Lessons And Runbook Updates
+# 05 Lessons dan Runbook memperbarui
 
-> Required focus: Lessons, runbook/alert/test/document changes and knowledge sharing.
+> Fokus wajib: Lessons, runbook/alert/pengujian/dokumen perubahan dan knowledge sharing.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

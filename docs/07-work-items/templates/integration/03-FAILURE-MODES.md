@@ -1,6 +1,6 @@
-# 03 Failure Modes
+# 03 Mode Kegagalan
 
-> Required focus: Timeout, retry, rate limit, partial failure, duplicate, ordering, fallback and circuit breaking.
+> Fokus wajib: timeout, retry, rate limit, kegagalan parsial, duplikasi, ordering, fallback, dan circuit breaking.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

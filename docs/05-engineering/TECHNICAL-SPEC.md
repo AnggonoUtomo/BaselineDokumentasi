@@ -1,31 +1,31 @@
-# Technical Specification
+# teknis Specification
 
-## Technology baseline
+## Teknologi baseline
 
-| Area | Technology/version | Repository evidence | Constraint |
+| area | Technology/version | repository bukti | batasan |
 |---|---|---|---|
 
-## Repository structure
+## repository structure
 
-## Coding conventions
+## coding conventions
 
-## Dependency policy
+## dependensi kebijakan
 
-A new dependency requires purpose, alternatives, license/security review, maintenance assessment, and approval.
+ baru dependensi memerlukan tujuan, alternatif, license/keamanan review, pemeliharaan penilaian, dan persetujuan.
 
-## Error handling
+## Error penanganan
 
-## Configuration and secrets
+## Configuration dan secrets
 
-## Logging and audit
+## Logging dan audit
 
-## Security controls
+## keamanan mengatur
 
-## Performance expectations
+## performa expectations
 
-## Compatibility and migrations
+## kompatibilitas dan migrations
 
-## Local development commands
+## lokal development perintah
 
 ```bash
 # install
@@ -38,4 +38,4 @@ A new dependency requires purpose, alternatives, license/security review, mainte
 
 ## CI/CD expectations
 
-## Known technical constraints
+## diketahui teknis batasan

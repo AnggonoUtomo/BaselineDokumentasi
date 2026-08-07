@@ -1,11 +1,11 @@
-# Work Item Registry
+# pekerjaan item registry
 
-| ID | Kind | Classification | Name | Status | Owner | Parent | Path | Target release |
+| ID | jenis | klasifikasi | nama | status | Pemilik | induk | path | target rilis |
 |---|---|---|---|---|---|---|---|---|
 
-## Rules
+## Aturan
 
-- Add every non-trivial work item before implementation.
-- Keep status synchronized with the work-item root document.
-- Child tasks may live in the package `TASKS.md`; significant child work items receive their own registry row.
-- Never delete completed rows; archive by status and path.
+- tambahkan setiap non-trivial pekerjaan item sebelum implementasi.
+- pertahankan status tersinkron dengan work item induk dokumen.
+- Turunan tasks boleh live di paket `TASKS.md`; signifikan child pekerjaan item receive mereka own registry row.
+- jangan pernah hapus selesai baris; arsipkan oleh status dan path.

@@ -1,71 +1,71 @@
 ---
 id: FTR-AREA-NNN
-title: <Feature title>
+title: <fitur title>
 status: draft
-version: 0.1.0
-owner: <owner>
-reviewers: []
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-related: []
+versi: 0.1.0
+pemilik: <pemilik>
+reviewer: []
+dibuat: YYYY-MM-DD
+diperbarui: YYYY-MM-DD
+terkait: []
 ---
 
-# Feature Specification
+# fitur Specification
 
-## Problem and outcome
+## masalah dan hasil
 
-## User/stakeholder value
+## pengguna/stakeholder nilai
 
-## Scope
+## Ruang Lingkup
 
-### In scope
+### Dalam scope
 
-### Out of scope
+### Di luar scope
 
-## Requirements
+## requirement
 
-| ID | Requirement | Priority | Source |
+| ID | requirement | prioritas | sumber |
 |---|---|---|---|
 
-## Business rules
+## Aturan Bisnis
 
-| ID | Rule | Exceptions |
+| ID | aturan | Exceptions |
 |---|---|---|
 
-## User/system flows
+## pengguna/sistem alur
 
-## Acceptance criteria
+## Kriteria penerimaan
 
-Use Given/When/Then or another testable format.
+gunakan Given/ketika/kemudian atau module lain dapat diuji format.
 
 ### AC-01
 
 - Given:
-- When:
-- Then:
+- ketika:
+- kemudian:
 
-## Edge and failure cases
+## edge dan kegagalan case
 
-## Authorization/security/privacy
+## Authorization/keamanan/privasi
 
-## Data and migration impact
+## data dan migrasi dampak
 
-## API/event/integration impact
+## API/event/integrasi dampak
 
 ## Observability/audit
 
-## Rollout and rollback
+## rollout dan rollback
 
-## Dependencies
+## Dependensi
 
-## Risks
+## Risiko
 
-## Assumptions
+## Asumsi
 
-## Open questions
+## Pertanyaan Terbuka
 
-## Definition of Ready review
+## definisi of Ready review
 
-- [ ] Completed
+- [ ] selesai
 - Verdict:
-- Approved by:
+- Disetujui oleh:

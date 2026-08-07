@@ -1,6 +1,6 @@
-# 03 Upgrade Plan
+# 03 Upgrade rencana
 
-> Required focus: Incremental steps, lockfile/config changes, test matrix and rollback.
+> Fokus wajib: Incremental langkah, lockfile/config perubahan, pengujian matriks dan rollback.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

@@ -1,14 +1,14 @@
-# Architecture Change Package
+# Arsitektur perubahan paket
 
-Use this package for `architecture-change` work. Copy the entire directory into the matching work-item collection and replace all placeholders.
+gunakan ini paket untuk `architecture-change` pekerjaan. salin seluruh direktori ke dalam sesuai work item koleksi dan ganti semua placeholder.
 
-## Required sequence
+## Urutan Wajib
 
-1. `01-DISCOVERY-RECORD.md` — Emergent architectural observation, evidence, current task impact and open questions.
-2. `02-BOUNDARY-PROPOSAL.md` — Capability, responsibilities, child modules, contracts, ownership and alternatives.
-3. `03-IMPACT-ASSESSMENT.md` — Requirements, modules, data, APIs, events, security, rollout and docs impact.
-4. `04-IMPLEMENTATION-PLAN.md` — Reversible architecture slices, compatibility bridge, tests and rollback.
-5. `05-VALIDATION-REPORT.md` — Dependency direction, encapsulation, contracts, ownership and architecture tests.
-6. `06-COMPLETION-REPORT.md` — Final structure, deviations, evidence, baseline registry and evolution log updates.
+1. `01-DISCOVERY-RECORD.md` — Emergent arsitektural observation, bukti, saat ini task dampak dan pertanyaan terbuka.
+2. `02-BOUNDARY-PROPOSAL.md` — kapabilitas, tanggung jawab, child modules, kontrak, ownership dan alternatif.
+3. `03-IMPACT-ASSESSMENT.md` — requirement, modules, data, API, event, keamanan, rollout dan dokumen dampak.
+4. `04-IMPLEMENTATION-PLAN.md` — Reversible arsitektur slice, kompatibilitas bridge, pengujian dan rollback.
+5. `05-VALIDATION-REPORT.md` — dependensi arah, enkapsulasi, kontrak, ownership dan arsitektur pengujian.
+6. `06-COMPLETION-REPORT.md` — akhir structure, deviasi, bukti, baseline registry dan evolusi log memperbarui.
 
-Also add `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` when needed, and `EVIDENCE-MANIFEST.md` before completion.
+Tambahkan juga `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` bila diperlukan, dan `EVIDENCE-MANIFEST.md` sebelum pekerjaan distatus selesai.

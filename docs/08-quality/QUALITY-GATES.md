@@ -1,28 +1,28 @@
-# Quality Gates
+# kualitas gate
 
-## Before coding
+## sebelum coding
 
-- Approved specification
-- Definition of Ready
-- Bounded task and test plan
+- disetujui specification
+- definisi of Ready
+- terbatas task dan pengujian rencana
 
-## Before merge
+## sebelum gabungkan
 
-- Acceptance criteria evidence
-- Focused and regression tests
-- Static checks
-- Five-axis code review
-- Security review when triggered
-- Documentation and traceability update
+- Kriteria penerimaan bukti
+- Focused dan regresi pengujian
+- Static pemeriksaan
+- lima-aspek kode review
+- keamanan review ketika terpicu
+- dokumentasi dan traceability perbarui
 
-## Before release
+## sebelum rilis
 
-- Release scope locked
-- Migration and compatibility review
-- Deployment and rollback validated
-- Monitoring and incident ownership defined
-- Release notes prepared
+- rilis scope dikunci
+- migrasi dan kompatibilitas review
+- deployment dan rollback validated
+- monitoring dan insiden ownership didefinisikan
+- rilis catatan prepared
 
-## Blocking findings
+## Blocking temuan
 
-Critical/high correctness or security findings block merge/release unless explicitly accepted by an authorized human with documented rationale.
+kritis/tinggi correctness atau keamanan temuan block gabungkan/rilis kecuali secara eksplisit diterima oleh authorized manusia dengan terdokumentasi rasional.

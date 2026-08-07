@@ -1,6 +1,6 @@
-# Dependency Register
+# dependensi daftarkan
 
-| Package/service | Version | Purpose | Owner | License | Support/EOL | Security notes | Upgrade policy |
+| paket/service | versi | Tujuan | Pemilik | lisensi | dukung/EOL | keamanan catatan | Upgrade kebijakan |
 |---|---|---|---|---|---|---|---|
 
-New production dependencies require classification, compatibility assessment, and approval according to Human Decision Gates.
+baru produksi dependensi memerlukan klasifikasi, kompatibilitas penilaian, dan persetujuan according ke manusia Keputusan gate.

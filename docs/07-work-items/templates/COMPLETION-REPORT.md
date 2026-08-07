@@ -1,38 +1,38 @@
-# Completion Report
+# Laporan Penyelesaian
 
-## Identity
+## Identitas
 
-- Feature/task:
-- Completion date:
+- Fitur/task:
+- penyelesaian date:
 - Implementer/agent:
-- Final status:
+- Status akhir:
 
-## Delivered behavior
+## hasil implementasi perilaku
 
-## Files changed
+## file diubah
 
-## Acceptance criteria evidence
+## Kriteria penerimaan bukti
 
-| Criterion | Evidence | Result |
+| Kriteria | Bukti | Hasil |
 |---|---|---|
 
-## Verification evidence
+## Verifikasi bukti
 
-| Command/check | Result | Notes |
+| perintah/periksa | Hasil | Catatan |
 |---|---|---|
 
-## Deviations from approved plan
+## deviasi dari disetujui rencana
 
-## Review outcome
+## review hasil
 
-## Deployment/rollback notes
+## deployment/rollback catatan
 
-## Known limitations and technical debt
+## diketahui limitations dan teknis utang teknis
 
-## Documentation updated
+## dokumentasi diperbarui
 
-## Traceability updated
+## Traceability diperbarui
 
-## Definition of Done
+## definisi of Done
 
-- [ ] Confirmed
+- [ ] dikonfirmasi

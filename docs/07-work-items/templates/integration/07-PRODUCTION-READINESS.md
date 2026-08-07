@@ -1,6 +1,6 @@
-# 07 Production Readiness
+# 07 Kesiapan Produksi
 
-> Required focus: Credentials, limits, alerts, runbook, support contacts, cost, rollback and approval.
+> Fokus wajib: credential, limit, alert, runbook, kontak dukungan, biaya, rollback, dan persetujuan.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

@@ -1,4 +1,4 @@
-# Evidence Manifest
+# Manifest Bukti
 
 ```yaml
 work_item: <ID>
@@ -13,11 +13,11 @@ documentation_inspected: []
 known_limitations: []
 ```
 
-## Acceptance-Criteria Evidence
+## Bukti Kriteria Penerimaan
 
-| Criterion | Evidence | Result |
+| Kriteria | Bukti | Hasil |
 |---|---|---|
 
-## Failed or Skipped Checks
+## Pemeriksaan Gagal atau Dilewati
 
-## Reviewer Notes
+## Catatan Reviewer

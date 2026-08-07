@@ -1,6 +1,6 @@
-# 03 Impact Assessment
+# 03 Penilaian Dampak
 
-> Required focus: Requirements, modules, data, APIs, events, security, rollout and docs impact.
+> Fokus wajib: requirement, module, data, API, event, keamanan, rollout, dan dampak dokumentasi.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

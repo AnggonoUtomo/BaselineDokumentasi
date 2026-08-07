@@ -1,6 +1,6 @@
-# 05 Validation Report
+# 05 Laporan Validasi
 
-> Required focus: Dependency direction, encapsulation, contracts, ownership and architecture tests.
+> Fokus wajib: arah dependensi, enkapsulasi, kontrak, ownership, dan pengujian arsitektur.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

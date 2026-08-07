@@ -1,20 +1,20 @@
-# Human Decision Gates
+# manusia Keputusan gate
 
-AI may investigate, draft, compare options, and prepare evidence. AI must not self-approve the following:
+AI boleh investigasi, draft, bandingkan opsi, dan siapkan bukti. AI dilarang menyetujui sendiri berikut:
 
-- New or removed architectural boundary/module
-- Breaking API or contract change
-- Authentication, authorization, identity, secret, or cryptographic change
-- Destructive or irreversible data migration
-- Data ownership or retention change
-- New production dependency, external vendor, paid service, or material cost increase
-- Compliance, legal, privacy, or audit control change
-- Production rollout with significant outage or rollback risk
-- Relaxation of quality, security, or acceptance criteria
+- baru atau dihapus arsitektural boundary/module
+- breaking API atau kontrak perubahan
+- Authentication, authorization, identitas, secret, atau kriptografi perubahan
+- destruktif atau irreversible data migrasi
+- data ownership atau retensi perubahan
+- baru produksi dependensi, eksternal vendor, berbayar layanan, atau material biaya kenaikan
+- kepatuhan, legal, privasi, atau audit kontrol perubahan
+- produksi rollout dengan signifikan gangguan layanan atau rollback risiko
+- Relaxation dari kualitas, keamanan, atau kriteria penerimaan
 
-## Gate Record
+## gate catat
 
-Record:
+catat:
 
 ```yaml
 gate: architecture-approval
@@ -25,4 +25,4 @@ conditions: []
 evidence: []
 ```
 
-Absence of approval means `not approved`.
+Absence dari persetujuan means `not approved`.

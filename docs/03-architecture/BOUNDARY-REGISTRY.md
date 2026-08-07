@@ -1,12 +1,12 @@
-# Boundary Registry
+# registry Boundary
 
-| ID | Boundary | Purpose | Owner | Status | Path | ADR |
+| ID | Boundary | Tujuan | Pemilik | status | path | ADR |
 |---|---|---|---|---|---|---|
-| `<BC-ID>` | `<Name>` | `<Capability>` | `<Owner>` | candidate/active/stable/deprecated/retired | `boundaries/...` | `<ADR>` |
+| `<BC-ID>` | `<Name>` | `<Capability>` | `<Pemilik>` | candidate/aktif/stable/deprecated/retired | `boundaries/...` | `<ADR>` |
 
-## Rules
+## Aturan
 
-- Every architectural boundary has a stable ID.
-- Child modules are registered in the boundary's `MODULE-CATALOG.md`.
-- Cross-boundary access must use an approved contract, event, or documented integration mechanism.
-- A boundary may not expose internal database models as its public contract.
+- setiap arsitektural boundary has stabil ID.
+- Turunan modules adalah registered di boundary's `MODULE-CATALOG.md`.
+- lintas-boundary akses wajib gunakan disetujui kontrak, event, atau terdokumentasi integrasi mechanism.
+- boundary boleh tidak mengekspos internal database model sebagai -nya publik kontrak.

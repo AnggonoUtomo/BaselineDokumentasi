@@ -1,10 +1,10 @@
-# Work Items
+# pekerjaan item
 
-This directory preserves the lifecycle and evidence of changes.
+Ini direktori mempertahankan lifecycle dan bukti dari perubahan.
 
-## Collections
+## koleksi
 
-Create as needed under approved categories:
+buat sebagai dibutuhkan di bawah disetujui kategori:
 
 ```text
 features/
@@ -22,11 +22,11 @@ incidents/
 
 ## Procedure
 
-1. Classify and register the work.
-2. Copy the matching template package.
-3. Fill metadata and pre-work documents.
-4. Obtain required approval and reach `ready`.
-5. Create context pack and execute incremental tasks.
-6. Produce verification, review, evidence, and completion records.
-7. Synchronize baseline documents and registries.
-8. Move to `completed`, then archive by release or policy.
+1. klasifikasikan dan daftarkan pekerjaan.
+2. salin sesuai template paket.
+3. isi metadata dan pra-pengerjaan dokumen.
+4. Obtain wajib persetujuan dan reach `ready`.
+5. buat konteks paket dan execute incremental tasks.
+6. hasilkan verifikasi, review, bukti, dan penyelesaian catatan.
+7. Synchronize baseline dokumen dan registries.
+8. pindahkan ke `completed`, kemudian arsipkan oleh rilis atau kebijakan.

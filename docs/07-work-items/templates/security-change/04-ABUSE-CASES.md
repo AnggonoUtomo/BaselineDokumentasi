@@ -1,6 +1,6 @@
-# 04 Abuse Cases
+# 04 Abuse Case
 
-> Required focus: Attacker goals, misuse paths, detection, prevention and response.
+> Fokus wajib: tujuan attacker, jalur misuse, detection, pencegahan, dan response.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

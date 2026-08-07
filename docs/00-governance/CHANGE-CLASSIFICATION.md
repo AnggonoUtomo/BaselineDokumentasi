@@ -1,27 +1,27 @@
-# Change Classification
+# perubahan klasifikasi
 
-Classify every proposed change before planning or coding.
+klasifikasikan setiap diusulkan perubahan sebelum perencanaan atau coding.
 
 ## Levels
 
-| Level | Typical examples | Minimum documentation | Approval |
+| tingkat | Contoh Umum contoh | Minimum dokumentasi | Persetujuan |
 |---|---|---|---|
-| `TRIVIAL` | Typo, comments, local rename, non-behavioral formatting | Task record, verification evidence | AI/self-review unless protected area |
-| `STANDARD` | Small feature, isolated bug, bounded refactor | Work-item brief, tasks, tests, completion report | Work-item owner |
-| `SIGNIFICANT` | New module, schema/API change, external integration, cross-boundary refactor | Full package, impact assessment, ADR when architectural | Human approval required |
-| `CRITICAL` | Authentication/authorization, destructive migration, breaking API, compliance, high-cost infrastructure | Full package, threat/risk review, rollback, release gate | Named human approver required |
+| `TRIVIAL` | Typo, komentar, lokal rename, tanpa perubahan perilaku formatting | Task catat, verifikasi bukti | AI/self-review kecuali dilindungi area |
+| `STANDARD` | kecil fitur, terisolasi bug, terbatas refactor | work item ringkas, tasks, pengujian, penyelesaian laporan | work item pemilik |
+| `SIGNIFICANT` | baru module, schema/API perubahan, eksternal integrasi, lintas-boundary refactor | lengkap paket, dampak penilaian, ADR ketika arsitektural | manusia persetujuan wajib |
+| `CRITICAL` | Authentication/authorization, destruktif migrasi, breaking API, kepatuhan, berbiaya tinggi infrastruktur | lengkap paket, threat/risiko review, rollback, rilis gate | ditunjuk manusia pemberi persetujuan wajib |
 
-## Classification Questions
+## klasifikasi pertanyaan
 
-- Does it alter externally observable behavior?
-- Does it cross module or boundary ownership?
-- Does it modify persistent data or migration paths?
-- Does it change public contracts, security, privacy, compliance, cost, or availability?
-- Is rollback difficult, destructive, or time-sensitive?
-- Does it introduce a new dependency or external vendor?
+- itu alter externally teramati perilaku?
+- itu cross module atau boundary ownership?
+- itu modify persistent data atau migrasi path?
+- itu perubahan publik kontrak, keamanan, privasi, kepatuhan, biaya, atau ketersediaan?
+- adalah rollback difficult, destruktif, atau sensitif waktu?
+- itu menambahkan baru dependensi atau eksternal vendor?
 
-Choose the highest applicable level. Record the rationale in the work-item metadata.
+pilih tertinggi berlaku tingkat. catat rasional di work item metadata.
 
-## Escalation Rule
+## Eskalasi aturan
 
-A work item may be escalated at any time. It may not be downgraded after implementation begins without a written rationale and human approval.
+ pekerjaan item boleh menjadi dinaikkan at apa pun waktu. itu boleh tidak menjadi diturunkan setelah implementasi dimulai tanpa tertulis rasional dan manusia persetujuan.

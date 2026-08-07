@@ -1,35 +1,35 @@
-# Operations Runbook
+# operasional Runbook
 
-## Service overview
+## layanan overview
 
 ## Environments
 
-## Dependencies
+## Dependensi
 
-## Health checks
+## Health pemeriksaan
 
-## Monitoring and alerts
+## monitoring dan alerts
 
-| Signal | Expected | Alert threshold | Owner | Response |
+| indikator | diharapkan | Alert threshold | Pemilik | Response |
 |---|---|---|---|---|
 
-## Deployment
+## deployment
 
-## Rollback
+## rollback
 
-## Backup and restore
+## Backup dan restore
 
-## Common incidents
+## Common insiden
 
-### Incident: `<name>`
+### insiden: `<name>`
 
 - Symptoms:
 - Diagnostics:
 - Immediate mitigation:
 - Recovery:
-- Escalation:
-- Follow-up:
+- Eskalasi:
+- tindak lanjut:
 
-## Access and secrets
+## akses dan secrets
 
-Do not place secret values in this document.
+ tidak place secret values di ini dokumen.

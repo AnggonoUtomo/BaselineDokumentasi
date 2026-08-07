@@ -1,6 +1,6 @@
-# 05 Rollback Plan
+# 05 Rencana Rollback
 
-> Required focus: Trigger, restore path, reverse transform, time limit and data-loss boundary.
+> Fokus wajib: pemicu, jalur restore, reverse transform, batas waktu, dan batas kehilangan data.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

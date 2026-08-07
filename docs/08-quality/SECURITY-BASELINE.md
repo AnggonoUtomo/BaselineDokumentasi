@@ -1,17 +1,17 @@
-# Security Baseline
+# keamanan baseline
 
-## Assets and Data Classification
+## Assets dan data klasifikasi
 
 ## Trust Boundaries
 
-## Authentication and Session Controls
+## Authentication dan Session mengatur
 
-## Authorization Model
+## Authorization model
 
-## Secret and Key Management
+## secret dan Key Management
 
-## Audit and Monitoring
+## audit dan monitoring
 
-## Secure Development Checks
+## aman Development pemeriksaan
 
-## Accepted Risks and Review Dates
+## diterima Risiko dan review Tanggals

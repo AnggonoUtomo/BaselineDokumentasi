@@ -1,6 +1,6 @@
 # 02 Baseline Benchmark
 
-> Required focus: Environment, dataset, scenarios, latency/throughput/resources and reproducibility.
+> Fokus wajib: environment, dataset, skenario, latency/throughput/resource, dan reproducibility.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

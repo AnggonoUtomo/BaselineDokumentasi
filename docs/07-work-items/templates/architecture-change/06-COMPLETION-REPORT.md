@@ -1,6 +1,6 @@
-# 06 Completion Report
+# 06 Laporan Penyelesaian
 
-> Required focus: Final structure, deviations, evidence, baseline registry and evolution log updates.
+> Fokus wajib: struktur akhir, deviasi, bukti, pembaruan registry baseline, dan evolusi log.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

@@ -1,4 +1,4 @@
-# Integration Catalog
+# Integrasi Catalog
 
-| ID | Provider/system | Purpose | Owner | Protocol | Data classification | Criticality | Runbook | Status |
+| ID | Provider/sistem | Tujuan | Pemilik | protokol | data klasifikasi | tingkat kritis | Runbook | status |
 |---|---|---|---|---|---|---|---|---|

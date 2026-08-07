@@ -1,6 +1,6 @@
-# 01 Upgrade Proposal
+# 01 Upgrade proposal
 
-> Required focus: Dependency, current/target versions, reason, support/security/license status.
+> Fokus wajib: dependensi, saat ini/target versi, alasan, dukung/keamanan/license status.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

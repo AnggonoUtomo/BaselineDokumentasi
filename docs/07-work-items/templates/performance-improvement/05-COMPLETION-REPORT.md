@@ -1,6 +1,6 @@
-# 05 Completion Report
+# 05 Laporan Penyelesaian
 
-> Required focus: Target result, production observation, cost tradeoff and follow-up.
+> Fokus wajib: pencapaian target, observasi produksi, trade-off biaya, dan tindak lanjut.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

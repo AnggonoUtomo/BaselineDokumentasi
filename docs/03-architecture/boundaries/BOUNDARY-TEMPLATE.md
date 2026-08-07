@@ -1,6 +1,6 @@
 ---
 id: BC-AREA-NNN
-title: <Boundary name>
+title: <Nama Boundary>
 document_type: approved-boundary
 status: approved
 version: 1.0.0
@@ -11,33 +11,33 @@ source_work_item:
 related: []
 ---
 
-# Boundary: <Name>
+# Boundary: <Nama>
 
-## Purpose
+## Tujuan
 
-## Owned capabilities
+## Kapabilitas yang Dimiliki
 
-## Excluded capabilities
+## Kapabilitas yang Dikecualikan
 
-## Child modules
+## Module Turunan
 
-| Module ID | Name | Responsibility | Status | Public surface |
+| Module ID | Nama | Tanggung Jawab | Status | Antarmuka Publik |
 |---|---|---|---|---|
 
-## Dependency rules
+## Aturan Dependensi
 
-## Public contracts
+## Kontrak Publik
 
-## Events
+## Event
 
-## Data ownership
+## Ownership Data
 
-## Security and authorization responsibilities
+## Tanggung Jawab Keamanan dan Authorization
 
-## Invariants
+## Invarian
 
-## Evolution rules
+## Aturan Evolusi
 
-## Related ADRs
+## ADR Terkait
 
-## Change history
+## Riwayat Perubahan

@@ -1,5 +1,5 @@
-# Release Reference
+# Referensi Release
 
-> Release tag/commit, artifact references, migration and rollback references.
+> Tag/commit release, referensi artifact, migration, dan rollback.
 
-## Snapshot Data
+## Data Snapshot

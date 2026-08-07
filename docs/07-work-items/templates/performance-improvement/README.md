@@ -1,13 +1,13 @@
-# Performance Improvement Package
+# Paket Peningkatan Performa
 
-Use this package for `performance-improvement` work. Copy the entire directory into the matching work-item collection and replace all placeholders.
+Gunakan paket ini untuk pekerjaan `performance-improvement`. Salin seluruh direktori ke koleksi work item yang sesuai dan ganti semua placeholder.
 
-## Required sequence
+## Urutan Wajib
 
-1. `01-PERFORMANCE-PROBLEM.md` — User impact, workload, SLO/target, bottleneck evidence and constraints.
-2. `02-BASELINE-BENCHMARK.md` — Environment, dataset, scenarios, latency/throughput/resources and reproducibility.
-3. `03-OPTIMIZATION-PLAN.md` — Hypotheses, changes, guardrails, risk and rollback.
-4. `04-BENCHMARK-REPORT.md` — Before/after metrics, variance, regressions, capacity and interpretation.
-5. `05-COMPLETION-REPORT.md` — Target result, production observation, cost tradeoff and follow-up.
+1. `01-PERFORMANCE-PROBLEM.md` — dampak pengguna, workload, SLO/target, bukti bottleneck, dan batasan.
+2. `02-BASELINE-BENCHMARK.md` — environment, dataset, skenario, latency/throughput/resource, dan reproducibility.
+3. `03-OPTIMIZATION-PLAN.md` — hipotesis, perubahan, guardrail, risiko, dan rollback.
+4. `04-BENCHMARK-REPORT.md` — perbandingan metrik sebelum/sesudah, variasi, regresi, kapasitas, dan interpretasi.
+5. `05-COMPLETION-REPORT.md` — pencapaian target, observasi produksi, trade-off biaya, dan tindak lanjut.
 
-Also add `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` when needed, and `EVIDENCE-MANIFEST.md` before completion.
+Tambahkan juga `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` bila diperlukan, serta `EVIDENCE-MANIFEST.md` sebelum pekerjaan berstatus selesai.

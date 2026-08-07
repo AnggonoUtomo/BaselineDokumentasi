@@ -1,6 +1,6 @@
-# 06 Completion Report
+# 06 Laporan Penyelesaian
 
-> Required focus: Delivered scope, deviations, evidence, baseline sync and follow-up work.
+> Fokus wajib: hasil implementasi scope, deviasi, bukti, baseline sync dan tindak lanjut pekerjaan.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

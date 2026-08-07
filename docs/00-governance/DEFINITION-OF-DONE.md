@@ -1,15 +1,15 @@
-# Definition of Done
+# definisi of Done
 
-- [ ] Approved acceptance criteria are satisfied.
-- [ ] Relevant automated tests pass.
-- [ ] Regression tests exist for bug fixes.
-- [ ] Static analysis/type checks pass.
-- [ ] Formatting/lint checks pass.
-- [ ] Security and authorization implications were reviewed.
-- [ ] Database/API compatibility was reviewed.
-- [ ] No unrelated changes are included.
-- [ ] Documentation and traceability are updated.
-- [ ] Review findings are resolved or accepted explicitly.
-- [ ] Deployment and rollback steps are valid where applicable.
-- [ ] Evidence is recorded in the task completion report.
-- [ ] Known limitations and technical debt are logged.
+- [ ] disetujui kriteria penerimaan adalah terpenuhi.
+- [ ] Relevant otomatis pengujian lulus.
+- [ ] Regresi pengujian ada untuk bug perbaikan.
+- [ ] Static analysis/jenis pemeriksaan lulus.
+- [ ] Formatting/lint pemeriksaan lulus.
+- [ ] keamanan dan authorization implikasi adalah reviewed.
+- [ ] database/API kompatibilitas adalah reviewed.
+- [ ] tidak ada tidak terkait perubahan adalah disertakan.
+- [ ] dokumentasi dan traceability adalah diperbarui.
+- [ ] review temuan adalah diselesaikan atau diterima secara eksplisit.
+- [ ] deployment dan rollback langkah adalah valid ketika berlaku.
+- [ ] Bukti adalah dicatat di task penyelesaian laporan.
+- [ ] diketahui limitations dan teknis utang teknis adalah dicatat.

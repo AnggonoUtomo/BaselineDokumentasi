@@ -1,82 +1,82 @@
-# Development Workflow
+# Development workflow
 
-## Lifecycle
+## lifecycle
 
 ```text
 DISCOVER → DEFINE → DESIGN → PLAN → BUILD → VERIFY → REVIEW → RELEASE → OPERATE
 ```
 
-## Phase gates
+## fase gate
 
-### Discover
+### temukan
 
-Outputs: repository inventory, stakeholders, problem statement, constraints, assumptions.
+Output: repository inventaris, stakeholders, masalah pernyataan, batasan, asumsi.
 
-Exit gate: problem and context are understandable.
+keluar gate: masalah dan konteks adalah dipahami.
 
-### Define
+### definisikan
 
-Outputs: PRD, scope, requirements, business rules, acceptance criteria.
+Output: PRD, scope, requirement, aturan bisnis, kriteria penerimaan.
 
-Exit gate: requirements are approved and testable.
+keluar gate: requirement adalah disetujui dan dapat diuji.
 
 ### Design
 
-Outputs: system design, module boundaries, data/API design, ADRs, security implications.
+Output: sistem design, module boundaries, data/API design, ADRs, keamanan implikasi.
 
-Exit gate: implementation approach is coherent and risks are known.
+keluar gate: implementasi pendekatan adalah koheren dan risiko adalah diketahui.
 
-### Plan
+### rencana
 
-Outputs: implementation slices, dependencies, tasks, test plan, rollback plan.
+Output: implementasi slice, dependensi, tasks, pengujian rencana, rollback rencana.
 
-Exit gate: Definition of Ready is satisfied.
+keluar gate: definisi of Ready adalah terpenuhi.
 
 ### Build
 
-Outputs: code and tests for one task/slice.
+Output: kode dan pengujian untuk satu task/slice.
 
-Exit gate: local task acceptance criteria pass.
+keluar gate: lokal task kriteria penerimaan lulus.
 
 ### Verify
 
-Outputs: automated checks, manual verification, evidence, regression results.
+Output: otomatis pemeriksaan, manual verifikasi, bukti, regresi hasil.
 
-Exit gate: no unresolved critical failures.
+keluar gate: tidak ada belum diselesaikan kritis kegagalan.
 
-### Review
+### review
 
-Outputs: five-axis review, security/performance review where relevant, resolved findings.
+Output: lima-aspek review, keamanan/performa review di mana relevant, diselesaikan temuan.
 
-Exit gate: merge/release recommendation exists.
+keluar gate: gabungkan/rilis rekomendasi ada.
 
-### Release
+### rilis
 
-Outputs: release notes, deployment and rollback evidence.
+Output: rilis catatan, deployment dan rollback bukti.
 
-Exit gate: release is deployed or explicitly deferred.
+keluar gate: rilis adalah di-deploy atau secara eksplisit ditunda.
 
 ### Operate
 
-Outputs: monitoring, incidents, runbook updates, technical debt and follow-up tasks.
+Output: monitoring, insiden, runbook memperbarui, teknis utang teknis dan tindak lanjut tasks.
 
-## Incremental rule
+## Incremental aturan
 
-Every implementation slice must leave the repository in a valid, testable state and should be independently reviewable and revertible.
+setiap implementasi slice wajib leave repository di valid, dapat diuji status dan sebaiknya independently reviewable dan revertible.
 
-## Emergent work and architecture evolution
+## Emergent pekerjaan dan arsitektur evolusi
 
-Development may reveal work that was not reasonably knowable during bootstrap. This is allowed, but it must not be hidden inside the active implementation task.
+Development boleh mengungkap pekerjaan itu adalah tidak secara wajar diketahui selama bootstrap. Ini adalah diizinkan, tetapi itu dilarang menjadi tersembunyi di dalam aktif implementasi task.
 
-When a new boundary, submodule family, contract, integration, data owner, or architectural responsibility is discovered:
+ketika baru boundary, submodule family, kontrak, integrasi, data pemilik, atau arsitektural tanggung jawab adalah ditemukan:
 
-1. Pause the affected implementation slice at a safe state.
-2. Create an Architecture Discovery Record.
-3. Decide whether the current task can continue, must be blocked, or should be split.
-4. If architecture changes, create the full Architecture Change Package.
-5. Approve the proposal, impact assessment, and ADR.
-6. Update baseline catalogs and traceability.
-7. Create new ready tasks and resume incremental implementation.
-8. Complete validation and completion reports after coding.
+1. Pause terdampak implementasi slice at safe status.
+2. buat Arsitektur Penemuan catat.
+3. Decide whether saat ini task dapat continue, wajib blocked, atau sebaiknya pecah.
+4. jika arsitektur perubahan, buat lengkap Arsitektur perubahan paket.
+5. Approve proposal, dampak penilaian, dan ADR.
+6. perbarui baseline catalogs dan traceability.
+7. buat baru siap tasks dan lanjutkan incremental implementasi.
+8. selesai validasi dan penyelesaian laporan setelah coding.
 
-The discovery itself is not approval to implement.
+ penemuan itu sendiri adalah tidak persetujuan ke implement.

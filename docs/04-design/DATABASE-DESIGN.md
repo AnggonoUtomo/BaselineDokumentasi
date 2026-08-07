@@ -1,37 +1,37 @@
-# Database Design
+# database Design
 
-## Database technology and conventions
+## database technology dan conventions
 
-## Data domains and ownership
+## data domains dan ownership
 
 ## Entity catalog
 
-| Entity/table | Owner module | Purpose | Primary key | Retention/classification |
+| Entity/tabel | Pemilik module | Tujuan | utama key | Retention/klasifikasi |
 |---|---|---|---|---|
 
-## Relationships and invariants
+## Relationships dan invariants
 
-## Schema details
+## skema details
 
 ### `<table/entity>`
 
-| Field | Type | Nullable | Default | Constraint | Meaning |
+| field | jenis | Nullable | Default | batasan | Makna |
 |---|---|---:|---|---|---|
 
 Indexes:
 
-Constraints:
+Batasan:
 
-Lifecycle/retention:
+lifecycle/retention:
 
-## Migration strategy
+## migrasi strategy
 
-## Backward compatibility
+## Backward kompatibilitas
 
-## Transaction boundaries
+## Transaksi boundaries
 
-## Seed/test data
+## Seed/pengujian data
 
-## Privacy and sensitive data
+## privasi dan sensitive data
 
-## Backup and recovery implications
+## Backup dan recovery implikasi

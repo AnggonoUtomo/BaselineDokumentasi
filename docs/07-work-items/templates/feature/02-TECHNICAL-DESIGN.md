@@ -1,6 +1,6 @@
-# 02 Technical Design
+# 02 teknis Design
 
-> Required focus: Current state, proposed design, module/data/API/event/security changes, alternatives and risks.
+> Fokus wajib: Saat Ini status, diusulkan design, module/data/API/event/keamanan perubahan, alternatif dan risiko.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

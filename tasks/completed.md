@@ -1,4 +1,4 @@
-# Completed Tasks
+# Task Selesai
 
-| Completed | Task ID | Feature | Completion report | Release |
+| selesai | Task ID | fitur | penyelesaian laporan | rilis |
 |---|---|---|---|---|

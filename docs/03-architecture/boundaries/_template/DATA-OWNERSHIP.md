@@ -1,4 +1,4 @@
-# Data Ownership — <Boundary>
+# Ownership Data — <Boundary>
 
-| Data/entity | Authoritative owner | Storage | Readers | Mutation contract | Retention |
+| Data/Entity | Owner Otoritatif | Penyimpanan | Pembaca | Kontrak Mutasi | Retensi |
 |---|---|---|---|---|---|

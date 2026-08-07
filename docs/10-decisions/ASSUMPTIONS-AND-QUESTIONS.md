@@ -1,15 +1,15 @@
-# Assumptions and Open Questions
+# Asumsi dan Pertanyaan Terbuka
 
-## Assumptions
+## Asumsi
 
-| ID | Assumption | Why needed | Validation method | Owner | Due | Status |
+| ID | asumsi | mengapa dibutuhkan | validasi metode | Pemilik | tenggat | status |
 |---|---|---|---|---|---|---|
 
-## Open questions
+## Pertanyaan Terbuka
 
-| ID | Question | Decision needed for | Options/source | Owner | Due | Status |
+| ID | pertanyaan | Keputusan dibutuhkan untuk | opsi/sumber | Pemilik | tenggat | status |
 |---|---|---|---|---|---|---|
 
-## Rule
+## aturan
 
-An assumption that materially affects acceptance criteria, architecture, security, or data must be validated before the related task becomes ready.
+ asumsi itu materially affects kriteria penerimaan, arsitektur, keamanan, atau data wajib validated sebelum terkait task becomes siap.

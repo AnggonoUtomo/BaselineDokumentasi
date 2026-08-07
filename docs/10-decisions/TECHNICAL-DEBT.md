@@ -1,6 +1,6 @@
-# Technical Debt Register
+# teknis utang teknis daftarkan
 
-| ID | Debt | Origin | Impact | Risk | Proposed action | Trigger/deadline | Owner | Status |
+| ID | utang teknis | asal | Dampak | Risiko | diusulkan aksi | Trigger/tenggat | Pemilik | status |
 |---|---|---|---|---|---|---|---|---|
 
-Technical debt must not be hidden in completion prose. Create an explicit entry and link it to the originating feature/task.
+teknis utang teknis dilarang menjadi tersembunyi di penyelesaian narasi. buat eksplisit masuk dan hubungkan itu ke asal feature/task.

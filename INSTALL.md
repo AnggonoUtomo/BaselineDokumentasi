@@ -1,28 +1,29 @@
-# Install SEOS into a Project
+# Instalasi SEOS ke dalam Proyek
 
-## New Project
+## Proyek Baru
 
-Copy all files from this package into the repository root. Keep the repository's existing `.gitignore`; use `.gitignore.template-notes` only as guidance.
+Salin seluruh file dari paket SEOS ke root repository. Pertahankan `.gitignore` proyek yang sudah ada; gunakan `.gitignore.template-notes` hanya sebagai panduan.
 
-Then instruct the AI:
+Kemudian instruksikan AI:
 
 ```text
-Read AGENTS.md and execute docs/00-governance/AI-PROJECT-BOOTSTRAP-PROMPT.md.
-Do not code during bootstrap. Inspect the repository, separate verified facts from assumptions, fill baseline documents in order, and finish with a readiness verdict.
+Baca AGENTS.md dan jalankan docs/00-governance/AI-PROJECT-BOOTSTRAP-PROMPT.md.
+Jangan melakukan coding selama bootstrap. Periksa repository, pisahkan fakta terverifikasi dari asumsi, isi dokumen baseline sesuai urutan, dan akhiri dengan putusan kesiapan proyek.
 ```
 
-## Existing Project
+## Proyek yang Sudah Berjalan
 
-1. Copy `docs/`, `AGENTS.md`, and `SEOS-VERSION`.
-2. Merge rather than overwrite project-specific `README.md` or existing agent instructions.
-3. Bootstrap from repository evidence.
-4. Register known active work and architecture decisions.
-5. Do not retroactively fabricate evidence for completed work; label reconstructed history clearly.
+1. Salin `docs/`, `AGENTS.md`, dan `SEOS-VERSION`.
+2. Gabungkan `README.md` dan instruksi agen secara hati-hati; jangan menimpa aturan proyek yang masih valid tanpa review.
+3. Lakukan bootstrap berdasarkan bukti aktual di repository.
+4. Daftarkan pekerjaan aktif dan keputusan arsitektur yang sudah diketahui.
+5. Jangan mengarang bukti secara retrospektif untuk pekerjaan lama. Tandai informasi hasil rekonstruksi secara jelas.
 
-## Starting a Work Item
+## Memulai Work Item
 
 ```bash
-cp -R docs/07-work-items/templates/<package>   docs/07-work-items/<collection>/<WORK-ID>-<slug>
+cp -R docs/07-work-items/templates/<package> \
+  docs/07-work-items/<collection>/<WORK-ID>-<slug>
 ```
 
-Update `WORK-ITEM-REGISTRY.md`, metadata, and package documents before coding.
+Perbarui `WORK-ITEM-REGISTRY.md`, metadata, dan dokumen pra-pengerjaan sebelum coding dimulai.

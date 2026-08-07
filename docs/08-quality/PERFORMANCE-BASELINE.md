@@ -1,12 +1,12 @@
-# Performance Baseline
+# performa baseline
 
-## Workload and Environment
+## Workload dan lingkungan
 
-## Service-Level Objectives
+## Service-Level tujuan
 
-| Scenario | Dataset/load | p50 | p95 | p99 | Throughput | Error rate | Resource use |
+| Scenario | Dataset/load | p50 | p95 | p99 | Throughput | Error rate | sumber daya gunakan |
 |---|---|---|---|---|---|---|---|
 
-## Capacity Assumptions
+## kapasitas Asumsi
 
-## Reproduction Commands
+## Reproduction perintah

@@ -1,6 +1,6 @@
-# 03 Authorization Matrix
+# 03 Matriks Otorisasi
 
-> Required focus: Actor/role, resource, action, condition, allow/deny and enforcement point.
+> Fokus wajib: actor/role, resource, aksi, kondisi, allow/deny, dan titik enforcement.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

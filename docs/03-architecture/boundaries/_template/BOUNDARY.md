@@ -1,24 +1,24 @@
-# Boundary: <Name>
+# Boundary: <Nama>
 
-## Identity
+## Identitas
 - ID: `<BC-ID>`
 - Status: candidate | active | stable | deprecated | retired
 - Owner: `<team/role>`
 
-## Purpose and Business Capability
+## Tujuan dan Kapabilitas Bisnis
 
-## Responsibilities
+## Tanggung Jawab
 
-## Non-Responsibilities
+## Di Luar Tanggung Jawab
 
-## Invariants
+## Invarian
 
-## Public Surface
+## Antarmuka Publik
 
-## Child Modules
+## Module Turunan
 
-## Dependencies
+## Dependensi
 
-## Security and Data Ownership
+## Keamanan dan Ownership Data
 
-## Related Decisions and Work Items
+## Keputusan dan Work Item Terkait

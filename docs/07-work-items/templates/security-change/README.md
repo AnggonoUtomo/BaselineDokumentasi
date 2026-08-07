@@ -1,14 +1,14 @@
-# Security Change Package
+# Paket Perubahan Keamanan
 
-Use this package for `security-change` work. Copy the entire directory into the matching work-item collection and replace all placeholders.
+Gunakan paket ini untuk pekerjaan `security-change`. Salin seluruh direktori ke koleksi work item yang sesuai dan ganti semua placeholder.
 
-## Required sequence
+## Urutan Wajib
 
-1. `01-SECURITY-REQUIREMENTS.md` — Assets, actors, trust boundaries, controls, abuse resistance and compliance.
-2. `02-THREAT-MODEL.md` — Data-flow/trust boundaries, threats, likelihood/impact, mitigations and residual risk.
-3. `03-AUTHORIZATION-MATRIX.md` — Actor/role, resource, action, condition, allow/deny and enforcement point.
-4. `04-ABUSE-CASES.md` — Attacker goals, misuse paths, detection, prevention and response.
-5. `05-SECURITY-TEST-PLAN.md` — Positive/negative authorization, privilege escalation, session, input and audit tests.
-6. `06-SECURITY-REVIEW.md` — Findings, severity, remediation, accepted risk, evidence and approval.
+1. `01-SECURITY-REQUIREMENTS.md` — asset, actor, trust boundary, kontrol, ketahanan terhadap abuse, dan compliance.
+2. `02-THREAT-MODEL.md` — alur data/trust boundary, ancaman, kemungkinan/dampak, mitigasi, dan risiko residual.
+3. `03-AUTHORIZATION-MATRIX.md` — actor/role, resource, aksi, kondisi, allow/deny, dan titik enforcement.
+4. `04-ABUSE-CASES.md` — tujuan attacker, jalur misuse, detection, pencegahan, dan response.
+5. `05-SECURITY-TEST-PLAN.md` — authorization positif/negatif, privilege escalation, session, input, dan audit.
+6. `06-SECURITY-REVIEW.md` — temuan, tingkat keparahan, remediation, risiko yang diterima, bukti, dan persetujuan.
 
-Also add `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` when needed, and `EVIDENCE-MANIFEST.md` before completion.
+Tambahkan juga `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` bila diperlukan, serta `EVIDENCE-MANIFEST.md` sebelum pekerjaan berstatus selesai.

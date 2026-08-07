@@ -1,27 +1,27 @@
-# Module Catalog
+# Katalog Module
 
-| Module | Purpose | Owns data | Public contracts | Publishes events | Consumes | Forbidden dependencies | Owner |
+| Module | Tujuan | Owns data | Kontrak Publik | Menerbitkan event | Mengonsumsi | dilarang dependensi | Pemilik |
 |---|---|---|---|---|---|---|---|
 
-## Boundary rules
+## Boundary aturan
 
-- A module must not query another module's private tables directly unless explicitly approved.
-- Cross-module synchronous behavior uses an explicit public contract.
-- Cross-module asynchronous behavior uses documented events/messages.
-- Shared code must be minimal and must not contain module-specific business rules.
+- module dilarang query module lain module's privat tabel secara langsung kecuali secara eksplisit disetujui.
+- Lintas-module sinkron perilaku menggunakan eksplisit publik kontrak.
+- Lintas-module asinkron perilaku menggunakan terdokumentasi events/messages.
+- Shared kode wajib minimal dan dilarang memuat spesifik module aturan bisnis.
 
 ## Per-module template
 
 ### `<Module name>`
 
-- Purpose:
-- In scope:
-- Out of scope:
+- Tujuan:
+- Dalam scope:
+- Di luar scope:
 - Entities/aggregates:
-- Public application contracts:
-- Events published:
-- Events consumed:
-- Data ownership:
+- Publik aplikasi kontrak:
+- event diterbitkan:
+- event dikonsumsi:
+- data ownership:
 - Authorization boundary:
-- Dependencies:
+- dependensi:
 - Invariants:

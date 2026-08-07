@@ -1,6 +1,6 @@
 ---
 id: ADR-NNNN
-title: <Decision title>
+title: <Judul Keputusan>
 status: proposed
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
@@ -8,42 +8,42 @@ deciders: []
 related: []
 ---
 
-# ADR-NNNN: Decision Title
+# ADR-NNNN: Judul Keputusan
 
-## Context
+## Konteks
 
-What forces, constraints, and problem require a decision?
+Faktor, batasan, dan masalah apa yang memerlukan keputusan?
 
-## Decision drivers
+## Pendorong Keputusan
 
-## Options considered
+## Opsi yang Dipertimbangkan
 
-### Option A
+### Opsi A
 
-- Description:
-- Benefits:
-- Costs/risks:
+- Deskripsi:
+- Manfaat:
+- Biaya/risiko:
 
-### Option B
+### Opsi B
 
-- Description:
-- Benefits:
-- Costs/risks:
+- Deskripsi:
+- Manfaat:
+- Biaya/risiko:
 
-## Decision
+## Keputusan
 
-## Consequences
+## Konsekuensi
 
-### Positive
+### Positif
 
-### Negative
+### Negatif
 
-### Neutral/follow-up
+### Netral / Tindak Lanjut
 
-## Validation
+## Validasi
 
-How will the decision be tested or reviewed?
+Bagaimana keputusan akan diuji atau direview?
 
-## Supersession
+## Penggantian
 
-What prior decision is replaced, or what would trigger reconsideration?
+Keputusan sebelumnya apa yang digantikan, atau kondisi apa yang akan memicu review ulang?

@@ -1,20 +1,20 @@
-# Documentation Sync Matrix
+# dokumentasi Sync matriks
 
-Use this matrix before marking any work item complete.
+gunakan ini matriks sebelum menandai apa pun pekerjaan item selesai.
 
-| Code/system change | Documents to inspect/update |
+| kode/sistem perubahan | dokumen untuk periksa/perbarui |
 |---|---|
-| New boundary | System Design, Boundary Registry, Module Catalog, dependency rules, ADR |
-| New/changed module | Boundary docs, Module Catalog, contracts, lifecycle |
-| Database/table/column | Database Design, data ownership, migration and rollback docs |
-| Public API | API Spec, compatibility/deprecation, security and test plan |
-| Domain/integration event | Event Catalog, producer/consumer contracts, observability |
-| Role/permission/policy | Authorization Matrix, threat model, security tests |
-| External integration | Integration Catalog, contract, failure modes, runbook |
-| Dependency/library | Dependency Register, upgrade record, license/security notes |
-| Deployment/config | Technical Spec, deployment/runbook, rollback procedure |
-| Breaking change | ADR, compatibility plan, deprecation/removal package, release notes |
-| Incident fix | Incident record, root cause, prevention actions, runbook/tests |
-| Performance change | Performance baseline, benchmark report, capacity assumptions |
+| baru boundary | System Design, registry Boundary, Katalog Module, dependensi aturan, ADR |
+| baru/diubah module | Boundary dokumen, Katalog Module, kontrak, lifecycle |
+| database/tabel/column | database Design, data ownership, migrasi dan rollback dokumen |
+| Publik API | API spesifikasi, compatibility/deprecation, keamanan dan pengujian rencana |
+| Domain/integrasi event | Event Catalog, producer/consumer kontrak, observability |
+| Role/permission/kebijakan | Authorization matriks, ancaman model, keamanan pengujian |
+| eksternal integrasi | Integrasi Catalog, kontrak, kegagalan modes, runbook |
+| dependensi/library | dependensi daftarkan, upgrade catat, license/keamanan catatan |
+| deployment/config | teknis spesifikasi, deployment/runbook, rollback procedure |
+| breaking perubahan | ADR, kompatibilitas rencana, deprecation/removal paket, rilis catatan |
+| insiden perbaikan | insiden catat, induk cause, pencegahan aksi, runbook/pengujian |
+| performa perubahan | performa baseline, benchmark laporan, kapasitas asumsi |
 
-Completion reports must list every inspected document, including those confirmed as `no change required`.
+penyelesaian laporan wajib daftar setiap diperiksa dokumen, termasuk yang dikonfirmasi sebagai `no change required`.

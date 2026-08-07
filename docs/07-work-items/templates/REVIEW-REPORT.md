@@ -1,38 +1,38 @@
-# Review Report
+# Laporan review
 
-## Reviewed change
+## Reviewed perubahan
 
-- Feature/task:
+- Fitur/task:
 - Commit/PR/diff:
-- Reviewer:
-- Date:
+- reviewer:
+- Tanggal:
 
-## Evidence reviewed
+## Bukti reviewed
 
-## Five-axis review
+## lima-aspek review
 
 ### 1. Correctness
 
-### 2. Readability and simplicity
+### 2. Readability dan simplicity
 
-### 3. Architecture and boundaries
+### 3. Arsitektur dan boundaries
 
-### 4. Security and privacy
+### 4. keamanan dan privasi
 
-### 5. Performance and scalability
+### 5. performa dan scalability
 
-## Findings
+## temuan
 
-| Severity | Finding | Evidence | Required action | Status |
+| tingkat keparahan | temuan | Bukti | wajib aksi | status |
 |---|---|---|---|---|
 
-Severity: `critical`, `high`, `medium`, `low`, `suggestion`.
+tingkat keparahan: `critical`, `high`, `medium`, `low`, `suggestion`.
 
-## Tests/checks verified
+## pengujian/pemeriksaan diverifikasi
 
-## Scope and unrelated-change check
+## Ruang Lingkup dan unrelated-change periksa
 
-## Verdict
+## Putusan
 
 ```yaml
 verdict: APPROVE | APPROVE_WITH_FOLLOW_UP | REQUEST_CHANGES | BLOCK

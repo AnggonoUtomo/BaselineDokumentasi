@@ -1,57 +1,57 @@
 ---
 id: DOC-PROP-NNN
-title: <Proposed document or template>
+title: <diusulkan dokumen atau template>
 document_type: document-proposal
 status: draft
-version: 0.1.0
-owner:
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
+versi: 0.1.0
+pemilik:
+dibuat: YYYY-MM-DD
+diperbarui: YYYY-MM-DD
 source_work_item:
-related: []
+terkait: []
 ---
 
-# Document Proposal
+# dokumen proposal
 
-## Trigger
+## Pemicu
 
-What was discovered during development?
+apa adalah ditemukan selama development?
 
-## Documentation gap
+## dokumentasi gap
 
-Why are current documents/templates insufficient?
+mengapa adalah saat ini dokumen/template insufficient?
 
-## Proposed document
+## diusulkan dokumen
 
-- Name:
-- Path:
-- Project-specific or reusable:
-- Intended owner:
-- Lifecycle phase:
+- nama:
+- path:
+- khusus proyek atau reusable:
+- Intended pemilik:
+- lifecycle fase:
 
-## Purpose and boundaries
+## Tujuan dan boundaries
 
-### Must contain
+### wajib memuat
 
-### Must not contain
+### wajib tidak memuat
 
-## Inputs
+## input
 
-## Outputs
+## Output
 
-## Relationship to existing sources of truth
+## Relationship ke eksisting sumber sumber kebenaran
 
-## Alternatives considered
+## Alternatif yang Dipertimbangkan
 
-## Risks of creating it
+## Risiko dari membuat itu
 
-## Risks of not creating it
+## Risiko dari tidak membuat itu
 
-## Required index/standard updates
+## wajib index/standar memperbarui
 
-## Decision
+## Keputusan
 
-- Status: proposed / approved / rejected
-- Approved by:
-- Date:
-- Notes:
+- status: diusulkan / disetujui / ditolak
+- Disetujui oleh:
+- Tanggal:
+- Catatan:

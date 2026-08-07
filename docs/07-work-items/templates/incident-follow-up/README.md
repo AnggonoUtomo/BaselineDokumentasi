@@ -1,13 +1,13 @@
-# Incident Follow Up Package
+# insiden ikuti Up paket
 
-Use this package for `incident-follow-up` work. Copy the entire directory into the matching work-item collection and replace all placeholders.
+gunakan ini paket untuk `incident-follow-up` pekerjaan. salin seluruh direktori ke dalam sesuai work item koleksi dan ganti semua placeholder.
 
-## Required sequence
+## Urutan Wajib
 
-1. `01-INCIDENT-SUMMARY.md` — Timeline, user impact, severity, detection, response and resolution.
-2. `02-ROOT-CAUSE-ANALYSIS.md` — Technical root cause, organizational contributors and why defenses failed.
-3. `03-CORRECTIVE-ACTIONS.md` — Immediate, preventive and detective actions with owner/due date.
-4. `04-VALIDATION-REPORT.md` — Fix tests, monitoring, game day/replay and residual risk.
-5. `05-LESSONS-AND-RUNBOOK-UPDATES.md` — Lessons, runbook/alert/test/document changes and knowledge sharing.
+1. `01-INCIDENT-SUMMARY.md` — Timeline, pengguna dampak, tingkat keparahan, detection, response dan resolution.
+2. `02-ROOT-CAUSE-ANALYSIS.md` — teknis induk cause, organizational contributors dan mengapa defenses gagal.
+3. `03-CORRECTIVE-ACTIONS.md` — Immediate, preventive dan detective aksi dengan pemilik/due date.
+4. `04-VALIDATION-REPORT.md` — perbaikan pengujian, monitoring, game day/replay dan residual risiko.
+5. `05-LESSONS-AND-RUNBOOK-UPDATES.md` — Lessons, runbook/alert/pengujian/dokumen perubahan dan knowledge sharing.
 
-Also add `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` when needed, and `EVIDENCE-MANIFEST.md` before completion.
+Tambahkan juga `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` bila diperlukan, dan `EVIDENCE-MANIFEST.md` sebelum pekerjaan distatus selesai.

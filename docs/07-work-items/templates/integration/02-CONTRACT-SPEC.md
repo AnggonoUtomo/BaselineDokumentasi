@@ -1,6 +1,6 @@
-# 02 Contract Spec
+# 02 Spesifikasi Kontrak
 
-> Required focus: Endpoints/messages, auth, schemas, versioning, idempotency and compatibility.
+> Fokus wajib: endpoint/message, authentication, schema, versioning, idempotency, dan kompatibilitas.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

@@ -1,6 +1,6 @@
-# 02 Source Target Mapping
+# 02 Pemetaan Sumber ke Target
 
-> Required focus: Field/entity mapping, transformation, defaults, rejected records and lineage.
+> Fokus wajib: pemetaan field/entity, transformasi, default, record yang ditolak, dan lineage.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

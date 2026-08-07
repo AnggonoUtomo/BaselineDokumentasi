@@ -1,4 +1,4 @@
-# Boundary Contract: <Provider> → <Consumer>
+# Kontrak Boundary: <Provider> → <Consumer>
 
 ## Metadata
 
@@ -12,26 +12,26 @@ owner: <team/role>
 compatibility: backward-compatible | breaking
 ```
 
-## Purpose
+## Tujuan
 
-## Operation / Message
+## Operasi / Pesan
 
-## Input and Validation
+## Input dan Validasi
 
 ## Output
 
-## Preconditions and Postconditions
+## Prakondisi dan Pascakondisi
 
-## Error Semantics
+## Semantik Error
 
-## Authorization and Data Classification
+## Authorization dan Klasifikasi Data
 
-## Transaction, Idempotency, Timeout, and Retry
+## Transaksi, Idempotency, Timeout, dan Retry
 
-## Versioning and Compatibility
+## Versioning dan Kompatibilitas
 
 ## Observability
 
-## Consumer Contract Tests
+## Pengujian Kontrak Consumer
 
-## Deprecation Policy
+## Kebijakan Deprecation

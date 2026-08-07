@@ -1,13 +1,13 @@
-# Project Implementation Plan
+# proyek Rencana Implementasi
 
-## Planning assumptions
+## perencanaan asumsi
 
-## Milestones
+## milestone
 
-| Milestone | Outcome | Included features | Entry criteria | Exit criteria | Status |
+| milestone | hasil | disertakan fitur | masuk kriteria | keluar kriteria | status |
 |---|---|---|---|---|---|
 
-## Dependency map
+## dependensi map
 
 ```mermaid
 flowchart LR
@@ -15,20 +15,20 @@ flowchart LR
   A --> C[Feature B]
 ```
 
-## Incremental delivery rules
+## Incremental delivery aturan
 
-- Deliver vertical slices that are demonstrable and testable.
-- Every slice keeps the repository valid.
-- Prefer explicit dependencies over parallel work that creates hidden coupling.
-- Defer speculative abstractions until repeated evidence exists.
+- hasilkan vertical slice itu adalah dapat didemonstrasikan dan dapat diuji.
+- setiap slice mempertahankan repository valid.
+- utamakan eksplisit dependensi di atas paralel pekerjaan itu membuat tersembunyi coupling.
+- Defer speculative abstractions until repeated bukti ada.
 
-## Risk register
+## Risiko daftarkan
 
-| Risk | Probability | Impact | Mitigation | Trigger | Owner |
+| Risiko | Probability | Dampak | Mitigation | Pemicu | Pemilik |
 |---|---|---|---|---|---|
 
-## Release strategy
+## Strategi Rilis
 
-## Rollback strategy
+## rollback strategy
 
 ## Progress reporting

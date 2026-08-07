@@ -1,4 +1,4 @@
-# Evolution Log — <Boundary>
+# Log Evolusi — <Boundary>
 
-| Date | Change | Work item | ADR | Compatibility impact |
+| Tanggal | Perubahan | Work Item | ADR | Dampak Kompatibilitas |
 |---|---|---|---|---|

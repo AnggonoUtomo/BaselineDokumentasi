@@ -1,22 +1,22 @@
-# Requirements Catalog
+# requirement Catalog
 
-## Functional requirements
+## Fungsional requirement
 
-| ID | Statement | Source | Priority | Acceptance criteria | Status |
+| ID | pernyataan | sumber | prioritas | Kriteria penerimaan | status |
 |---|---|---|---|---|---|
 
-## Non-functional requirements
+## non-fungsional requirement
 
-| ID | Quality attribute | Measurable requirement | Verification | Status |
+| ID | kualitas atribut | terukur requirement | Verifikasi | status |
 |---|---|---|---|---|
 
-## Business rules
+## Aturan Bisnis
 
-| ID | Rule | Applies to | Exceptions | Evidence/test |
+| ID | aturan | berlaku untuk | Exceptions | Bukti/pengujian |
 |---|---|---|---|---|
 
-## Constraints
+## Batasan
 
-## Assumptions
+## Asumsi
 
-## Open questions
+## Pertanyaan Terbuka

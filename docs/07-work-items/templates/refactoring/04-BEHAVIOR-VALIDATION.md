@@ -1,6 +1,6 @@
-# 04 Behavior Validation
+# 04 perilaku validasi
 
-> Required focus: Before/after equivalence, tests, API/data compatibility and performance comparison.
+> Fokus wajib: sebelum/setelah equivalence, pengujian, API/data kompatibilitas dan performa comparison.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

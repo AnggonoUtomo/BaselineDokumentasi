@@ -1,6 +1,6 @@
-# 05 Removal Report
+# 05 Laporan Penghapusan
 
-> Required focus: Removed artifacts, consumer status, incidents, cleanup and release.
+> Fokus wajib: artefak yang dihapus, status consumer, insiden, cleanup, dan release.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

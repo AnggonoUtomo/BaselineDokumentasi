@@ -1,33 +1,33 @@
-# Definition of Ready
+# definisi of Ready
 
-A feature/task is ready only when all applicable items are checked.
+ feature/task adalah siap hanya ketika semua berlaku item adalah checked.
 
-## Feature readiness
+## fitur readiness
 
-- [ ] Problem and desired outcome are explicit.
-- [ ] Scope and non-scope are defined.
-- [ ] Stakeholders and users are identified.
-- [ ] Functional and non-functional requirements have IDs.
-- [ ] Business rules and edge cases are documented.
-- [ ] Acceptance criteria are testable.
-- [ ] Dependencies and module impacts are known.
-- [ ] Data, API, security, privacy, and authorization impacts are reviewed.
-- [ ] Architecture decisions are approved or not required.
-- [ ] Risks, assumptions, and open questions are resolved enough to proceed.
-- [ ] Rollout and rollback expectations are defined.
+- [ ] masalah dan desired hasil adalah eksplisit.
+- [ ] Ruang Lingkup dan non-scope adalah didefinisikan.
+- [ ] Stakeholders dan pengguna adalah identified.
+- [ ] Fungsional dan non-fungsional requirement have ID.
+- [ ] bisnis aturan dan edge case adalah terdokumentasi.
+- [ ] Kriteria penerimaan adalah dapat diuji.
+- [ ] dependensi dan module impacts adalah diketahui.
+- [ ] data, API, keamanan, privasi, dan authorization impacts adalah reviewed.
+- [ ] Arsitektur keputusan adalah disetujui atau tidak wajib.
+- [ ] Risiko, asumsi, dan pertanyaan terbuka adalah diselesaikan enough ke proceed.
+- [ ] rollout dan rollback expectations adalah didefinisikan.
 
 ## Task readiness
 
-- [ ] Task has one bounded objective.
-- [ ] References point to approved specifications.
-- [ ] Allowed and forbidden change areas are identified.
-- [ ] Expected files/components are listed when known.
-- [ ] Acceptance criteria and verification commands are present.
-- [ ] Required tests are named.
-- [ ] Dependencies are completed or explicitly available.
-- [ ] Task can be completed without inventing missing requirements.
+- [ ] Task has satu terbatas tujuan.
+- [ ] Referensi point ke disetujui specifications.
+- [ ] diizinkan dan dilarang perubahan areas adalah identified.
+- [ ] diharapkan file/components adalah listed ketika diketahui.
+- [ ] Kriteria penerimaan dan verifikasi perintah adalah present.
+- [ ] wajib pengujian adalah ditunjuk.
+- [ ] dependensi adalah selesai atau secara eksplisit tersedia.
+- [ ] Task dapat menjadi selesai tanpa inventing missing requirement.
 
-## Verdict
+## Putusan
 
 ```yaml
 readiness: READY | NOT_READY

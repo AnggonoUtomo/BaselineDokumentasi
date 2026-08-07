@@ -1,22 +1,22 @@
-# Project Scope
+# proyek Ruang Lingkup
 
-## In scope
+## Dalam scope
 
-| ID | Capability | Rationale | Release/phase |
+| ID | kapabilitas | rasional | rilis/fase |
 |---|---|---|---|
 
-## Out of scope
+## Di luar scope
 
-| Item | Reason | Reconsideration trigger |
+| item | alasan | peninjauan ulang memicu |
 |---|---|---|
 
 ## Boundaries
 
-- System boundary:
+- sistem boundary:
 - Organizational boundary:
-- Data boundary:
-- Integration boundary:
+- data boundary:
+- Integrasi boundary:
 
-## Scope change process
+## Ruang Lingkup perubahan proses
 
-A proposed scope change must document value, cost, risk, affected requirements, affected architecture, and release impact before approval.
+ diusulkan scope perubahan wajib dokumen nilai, biaya, risiko, terdampak requirement, terdampak arsitektur, dan rilis dampak sebelum persetujuan.

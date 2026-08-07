@@ -1,6 +1,6 @@
-# 02 Root Cause Analysis
+# 02 Analisis Akar Masalah
 
-> Required focus: Technical root cause, organizational contributors and why defenses failed.
+> Fokus wajib: teknis induk cause, organizational contributors dan mengapa defenses gagal.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

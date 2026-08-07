@@ -1,6 +1,6 @@
-# 05 Review Report
+# 05 Laporan review
 
-> Required focus: Correctness, architecture, readability, security, performance and unresolved findings.
+> Fokus wajib: Correctness, arsitektur, readability, keamanan, performa dan belum diselesaikan temuan.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

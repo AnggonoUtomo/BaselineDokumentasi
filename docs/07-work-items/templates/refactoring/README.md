@@ -1,13 +1,13 @@
-# Refactoring Package
+# refactoring paket
 
-Use this package for `refactoring` work. Copy the entire directory into the matching work-item collection and replace all placeholders.
+gunakan ini paket untuk `refactoring` pekerjaan. salin seluruh direktori ke dalam sesuai work item koleksi dan ganti semua placeholder.
 
-## Required sequence
+## Urutan Wajib
 
-1. `01-REFACTORING-PROPOSAL.md` — Smell/debt, objective, boundaries, no-behavior-change guarantee and metrics.
-2. `02-BEHAVIOR-BASELINE.md` — Current observable behavior, tests, contracts, performance and compatibility baseline.
-3. `03-IMPLEMENTATION-PLAN.md` — Small reversible transformations and checkpoints.
-4. `04-BEHAVIOR-VALIDATION.md` — Before/after equivalence, tests, API/data compatibility and performance comparison.
-5. `05-COMPLETION-REPORT.md` — Structure improved, behavior preserved, deviations and debt reduced/created.
+1. `01-REFACTORING-PROPOSAL.md` — indikasi masalah/utang teknis, tujuan, boundaries, tanpa perubahan perilaku jaminan dan metrik.
+2. `02-BEHAVIOR-BASELINE.md` — Saat Ini teramati perilaku, pengujian, kontrak, performa dan kompatibilitas baseline.
+3. `03-IMPLEMENTATION-PLAN.md` — kecil reversible transformations dan checkpoints.
+4. `04-BEHAVIOR-VALIDATION.md` — sebelum/setelah equivalence, pengujian, API/data kompatibilitas dan performa comparison.
+5. `05-COMPLETION-REPORT.md` — Structure improved, perilaku preserved, deviasi dan utang teknis reduced/dibuat.
 
-Also add `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` when needed, and `EVIDENCE-MANIFEST.md` before completion.
+Tambahkan juga `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` bila diperlukan, dan `EVIDENCE-MANIFEST.md` sebelum pekerjaan distatus selesai.

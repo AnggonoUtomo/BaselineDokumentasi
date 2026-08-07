@@ -1,6 +1,6 @@
-# 01 Bug Report
+# 01 Laporan Bug
 
-> Required focus: Observed/expected behavior, environment, reproduction, severity, affected versions and evidence.
+> Fokus wajib: perilaku aktual dan yang diharapkan, environment, langkah reproduksi, tingkat keparahan, versi terdampak, dan bukti.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

@@ -1,6 +1,6 @@
-# 01 Migration Proposal
+# 01 Proposal Migrasi
 
-> Required focus: Business reason, source/target, volume, downtime, risk and ownership.
+> Fokus wajib: alasan bisnis, sumber/target, volume, downtime, risiko, dan ownership.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

@@ -1,5 +1,5 @@
-# Requirement Snapshot
+# Snapshot Requirement
 
-> Requirements and traceability state included in the release.
+> Requirement dan status traceability yang termasuk dalam release.
 
-## Snapshot Data
+## Data Snapshot

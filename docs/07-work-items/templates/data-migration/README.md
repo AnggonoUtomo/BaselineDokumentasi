@@ -1,15 +1,15 @@
-# Data Migration Package
+# Paket Migrasi Data
 
-Use this package for `data-migration` work. Copy the entire directory into the matching work-item collection and replace all placeholders.
+Gunakan paket ini untuk pekerjaan `data-migration`. Salin seluruh direktori ke koleksi work item yang sesuai dan ganti semua placeholder.
 
-## Required sequence
+## Urutan Wajib
 
-1. `01-MIGRATION-PROPOSAL.md` — Business reason, source/target, volume, downtime, risk and ownership.
-2. `02-SOURCE-TARGET-MAPPING.md` — Field/entity mapping, transformation, defaults, rejected records and lineage.
-3. `03-DATA-QUALITY-ASSESSMENT.md` — Completeness, validity, duplicates, referential integrity and remediation.
-4. `04-MIGRATION-PLAN.md` — Phases, rehearsal, backup, batching, idempotency, freeze window and cutover.
-5. `05-ROLLBACK-PLAN.md` — Trigger, restore path, reverse transform, time limit and data-loss boundary.
-6. `06-RECONCILIATION-REPORT.md` — Counts, totals, hashes/samples, exceptions and sign-off.
-7. `07-POST-MIGRATION-REPORT.md` — Outcome, residual issues, monitoring, cleanup and lessons.
+1. `01-MIGRATION-PROPOSAL.md` — alasan bisnis, sumber/target, volume, downtime, risiko, dan ownership.
+2. `02-SOURCE-TARGET-MAPPING.md` — pemetaan field/entity, transformasi, default, record ditolak, dan lineage.
+3. `03-DATA-QUALITY-ASSESSMENT.md` — kelengkapan, validitas, duplikasi, integritas referensial, dan remediation.
+4. `04-MIGRATION-PLAN.md` — fase, rehearsal, backup, batching, idempotency, freeze window, dan cutover.
+5. `05-ROLLBACK-PLAN.md` — pemicu, jalur restore, reverse transform, batas waktu, dan batas kehilangan data.
+6. `06-RECONCILIATION-REPORT.md` — jumlah data, total, hash/sample, exception, dan sign-off.
+7. `07-POST-MIGRATION-REPORT.md` — hasil, masalah residual, monitoring, cleanup, dan pelajaran.
 
-Also add `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` when needed, and `EVIDENCE-MANIFEST.md` before completion.
+Tambahkan juga `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` bila diperlukan, serta `EVIDENCE-MANIFEST.md` sebelum pekerjaan berstatus selesai.

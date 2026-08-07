@@ -1,6 +1,6 @@
-# 06 Security Review
+# 06 Review Keamanan
 
-> Required focus: Findings, severity, remediation, accepted risk, evidence and approval.
+> Fokus wajib: temuan, tingkat keparahan, remediation, risiko yang diterima, bukti, dan persetujuan.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

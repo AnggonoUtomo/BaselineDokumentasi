@@ -1,28 +1,28 @@
-# Feature Test Plan
+# fitur Rencana Pengujian
 
-## Scope
+## Ruang Lingkup
 
-## Requirement-to-test cases
+## Requirement-to-test case
 
-| Test ID | Requirement/AC | Level | Scenario | Expected result | Automated |
+| pengujian ID | requirement/AC | tingkat | Scenario | diharapkan hasil | otomatis |
 |---|---|---|---|---|---|
 
-## Happy paths
+## Happy path
 
-## Boundary and validation cases
+## Boundary dan validasi case
 
-## Authorization/security cases
+## Authorization/keamanan case
 
-## Failure and recovery cases
+## kegagalan dan recovery case
 
-## Concurrency/idempotency cases
+## Concurrency/idempotency case
 
-## Migration/compatibility cases
+## migrasi/compatibility case
 
-## Regression scope
+## Regresi scope
 
-## Manual verification
+## manual verifikasi
 
-## Test environment and data
+## pengujian lingkungan dan data
 
-## Exit criteria
+## keluar kriteria

@@ -1,6 +1,6 @@
-# 04 Removal Readiness
+# 04 Kesiapan Penghapusan
 
-> Required focus: Usage zero/approved, backups, rollback, docs/tests and gate approval.
+> Fokus wajib: penggunaan sudah nol atau disetujui, backup, rollback, dokumentasi/pengujian, dan gate persetujuan.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

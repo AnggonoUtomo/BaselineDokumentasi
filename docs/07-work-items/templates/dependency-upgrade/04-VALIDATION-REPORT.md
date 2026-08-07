@@ -1,6 +1,6 @@
-# 04 Validation Report
+# 04 Laporan Validasi
 
-> Required focus: Build, tests, security scan, performance and runtime observation.
+> Fokus wajib: Build, pengujian, keamanan scan, performa dan runtime observation.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

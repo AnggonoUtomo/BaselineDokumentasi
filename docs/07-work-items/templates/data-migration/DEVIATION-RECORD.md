@@ -1,4 +1,4 @@
-# Deviation Record
+# Catatan Deviasi
 
 ```yaml
 id: DEV-AREA-NNN
@@ -7,18 +7,18 @@ status: open
 requires_adr: false
 ```
 
-## Planned Approach
+## Pendekatan yang Direncanakan
 
-## Observed Reality
+## Kondisi Aktual yang Ditemukan
 
-## Deviation
+## Deviasi
 
-## Reason
+## Alasan
 
-## Impact
+## Dampak
 
-## Decision and Approval
+## Keputusan dan Persetujuan
 
-## Documents / Tasks Updated
+## Dokumen / Task yang Diperbarui
 
-## Technical Debt or Follow-up
+## Utang Teknis atau Tindak Lanjut

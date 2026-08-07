@@ -1,53 +1,53 @@
 ---
 id: DOC-PROJECT-BRIEF
-title: Project Brief
+title: proyek Ringkas
 status: draft
-version: 0.1.0
-owner: product-owner
-reviewers: []
-created: YYYY-MM-DD
-updated: YYYY-MM-DD
-related: []
+versi: 0.1.0
+pemilik: product-owner
+reviewer: []
+dibuat: YYYY-MM-DD
+diperbarui: YYYY-MM-DD
+terkait: []
 ---
 
-# Project Brief
+# proyek Ringkas
 
-## Project identity
+## proyek identitas
 
-- Product name:
-- Repository/project name:
-- One-sentence description:
-- Current lifecycle stage:
+- produk nama:
+- repository/proyek nama:
+- One-sentence deskripsi:
+- Saat Ini lifecycle stage:
 
-## Problem
+## masalah
 
-What problem exists, for whom, and why it matters.
+apa masalah ada, untuk siapa, dan mengapa itu penting.
 
-## Desired outcome
+## Desired hasil
 
-Describe observable business/user outcomes, not implementation.
+jelaskan teramati bisnis/pengguna hasil, tidak implementasi.
 
-## Target users and stakeholders
+## target pengguna dan stakeholders
 
-| Actor | Need | Influence |
+| aktor | Need | Influence |
 |---|---|---|
 
-## Value proposition
+## nilai proposition
 
-## Constraints
+## Batasan
 
-- Business:
-- Technical:
-- Regulatory/compliance:
-- Budget/time/team:
+- bisnis:
+- teknis:
+- Regulatory/kepatuhan:
+- Budget/time/tim:
 
 ## Success indicators
 
-| Indicator | Baseline | Target | Measurement source |
+| Indicator | baseline | target | pengukuran sumber |
 |---|---:|---:|---|
 
-## Verified facts
+## diverifikasi fakta
 
-## Assumptions
+## Asumsi
 
-## Open questions
+## Pertanyaan Terbuka

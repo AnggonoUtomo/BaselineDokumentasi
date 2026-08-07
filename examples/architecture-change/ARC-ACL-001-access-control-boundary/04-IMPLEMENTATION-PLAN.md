@@ -1,6 +1,6 @@
-# 04 Implementation Plan
+# 04 Rencana Implementasi
 
-> Required focus: Reversible architecture slices, compatibility bridge, tests and rollback.
+> Fokus wajib: irisan perubahan arsitektur yang reversible, compatibility bridge, pengujian, dan rollback.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

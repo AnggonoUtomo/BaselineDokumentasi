@@ -1,4 +1,4 @@
 # Task Backlog
 
-| Priority | Task ID | Feature | Objective | Dependency | Readiness | Owner |
+| prioritas | Task ID | fitur | tujuan | dependensi | Kesiapan | Pemilik |
 |---:|---|---|---|---|---|---|

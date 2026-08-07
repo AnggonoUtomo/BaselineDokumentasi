@@ -1,6 +1,6 @@
-# 02 Behavior Baseline
+# 02 perilaku baseline
 
-> Required focus: Current observable behavior, tests, contracts, performance and compatibility baseline.
+> Fokus wajib: Saat Ini teramati perilaku, pengujian, kontrak, performa dan kompatibilitas baseline.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

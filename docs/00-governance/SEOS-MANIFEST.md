@@ -1,31 +1,31 @@
-# SEOS Manifest
+# SEOS manifest
 
-## Identity
+## Identitas
 
-- Name: Software Engineering Operating System (SEOS)
-- Version: 2.0.0
-- Purpose: AI-friendly, repository-local operating system for planning, implementing, validating, releasing, and evolving software.
+- nama: software engineering Operating sistem (SEOS)
+- versi: 2.0.0
+- Tujuan: AI-friendly, repository-local operating sistem untuk perencanaan, implementing, validating, releasing, dan evolving software.
 
 ## Core Principles
 
-1. Documentation is executable guidance, not decoration.
-2. Every material code change maps to a classified work item.
-3. Work proceeds through explicit pre-work, implementation, and post-work evidence.
-4. Baseline documents describe the current truth; work-item documents preserve change history.
-5. AI may propose change, but human gates protect high-impact decisions.
-6. One active task, bounded context, measurable acceptance criteria, verifiable evidence.
+1. dokumentasi adalah executable panduan, tidak decoration.
+2. setiap material kode perubahan maps ke classified pekerjaan item.
+3. pekerjaan berjalan melalui eksplisit pra-pengerjaan, implementasi, dan pasca-pengerjaan bukti.
+4. baseline dokumen jelaskan saat ini kebenaran; work item dokumen pertahankan perubahan riwayat.
+5. AI boleh propose perubahan, tetapi human gate lindungi high-impact keputusan.
+6. satu aktif task, terbatas konteks, terukur kriteria penerimaan, verifiable bukti.
 
-## Canonical Lifecycle
+## Canonical lifecycle
 
 `DISCOVER → CLASSIFY → PROPOSE → APPROVE → READY → IMPLEMENT → VERIFY → REVIEW → COMPLETE → BASELINE-SYNC → ARCHIVE`
 
-## Source-of-Truth Priority
+## Prioritas Sumber Kebenaran
 
-1. Approved active work item and task
-2. Accepted ADRs and boundary contracts
-3. Current baseline architecture/design documents
-4. Engineering and quality standards
-5. Existing implementation
-6. Historical work-item documents
+1. disetujui aktif pekerjaan item dan task
+2. diterima ADRs dan boundary kontrak
+3. Saat Ini baseline arsitektur/design dokumen
+4. engineering dan kualitas standar
+5. eksisting implementasi
+6. historis work item dokumen
 
-When these disagree, stop and create a deviation or decision record. Do not silently choose.
+ketika ini disagree, hentikan dan buat deviation atau keputusan catat. tidak silently pilih.

@@ -1,13 +1,13 @@
-# Deprecation Removal Package
+# Paket Deprecation dan Penghapusan
 
-Use this package for `deprecation-removal` work. Copy the entire directory into the matching work-item collection and replace all placeholders.
+Gunakan paket ini untuk pekerjaan `deprecation-removal`. Salin seluruh direktori ke koleksi work item yang sesuai dan ganti semua placeholder.
 
-## Required sequence
+## Urutan Wajib
 
-1. `01-DEPRECATION-PROPOSAL.md` — Deprecated surface, reason, consumers, replacement and compatibility window.
-2. `02-CONSUMER-IMPACT.md` — Known consumers, usage evidence, migration effort and owner.
-3. `03-TRANSITION-PLAN.md` — Announcement, dual-run/shim, migration steps, telemetry and deadline.
-4. `04-REMOVAL-READINESS.md` — Usage zero/approved, backups, rollback, docs/tests and gate approval.
-5. `05-REMOVAL-REPORT.md` — Removed artifacts, consumer status, incidents, cleanup and release.
+1. `01-DEPRECATION-PROPOSAL.md` — antarmuka yang deprecated, alasan, consumer, pengganti, dan jangka waktu kompatibilitas.
+2. `02-CONSUMER-IMPACT.md` — consumer yang diketahui, bukti penggunaan, upaya migrasi, dan pemilik.
+3. `03-TRANSITION-PLAN.md` — pengumuman, dual-run/shim, langkah migrasi, telemetry, dan tenggat.
+4. `04-REMOVAL-READINESS.md` — penggunaan sudah nol atau disetujui, backup, rollback, dokumentasi/pengujian, dan gate persetujuan.
+5. `05-REMOVAL-REPORT.md` — artefak yang dihapus, status consumer, insiden, cleanup, dan release.
 
-Also add `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` when needed, and `EVIDENCE-MANIFEST.md` before completion.
+Tambahkan juga `CONTEXT-PACK.md`, `DEVIATION-RECORD.md` bila diperlukan, serta `EVIDENCE-MANIFEST.md` sebelum pekerjaan berstatus selesai.

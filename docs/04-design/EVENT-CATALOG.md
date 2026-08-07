@@ -1,21 +1,21 @@
 # Event Catalog
 
-| ID | Event | Producer | Consumers | Delivery | Schema version | Idempotency key |
+| ID | Event | Producer | Consumers | delivery | skema versi | Idempotency key |
 |---|---|---|---|---|---|---|
 
 ## Event template
 
 ### `EVT-AREA-NNN — EventName`
 
-- Meaning:
-- Trigger:
+- Makna:
+- Pemicu:
 - Producer:
 - Consumers:
-- Delivery guarantee:
-- Ordering assumptions:
-- Retry/dead-letter handling:
+- delivery jaminan:
+- Ordering asumsi:
+- Retry/dead-letter penanganan:
 - Idempotency:
-- Sensitive fields:
+- Sensitive field:
 
 ```json
 {

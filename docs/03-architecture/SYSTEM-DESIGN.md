@@ -1,14 +1,14 @@
 # System Design
 
-## Context and objectives
+## konteks dan tujuan
 
-## Current-state repository evidence
+## Kondisi Saat Ini repository bukti
 
-## Architecture style
+## Gaya Arsitektur
 
-State the existing/chosen style and why it fits the constraints.
+status eksisting/chosen gaya dan mengapa itu sesuai batasan.
 
-## System context
+## Konteks Sistem
 
 ```mermaid
 flowchart LR
@@ -16,31 +16,31 @@ flowchart LR
   System --> External[External Service]
 ```
 
-## Containers/runtime components
+## Containers/runtime komponen
 
-| Component | Responsibility | Technology | Data owned | Dependencies |
+| Komponen | tanggung jawab | Teknologi | data dimiliki | dependensi |
 |---|---|---|---|---|
 
-## Major flows
+## Alur Utama
 
-## Module/dependency rules
+## Module/dependensi aturan
 
-## Data ownership and consistency
+## data ownership dan consistency
 
-## Communication patterns
+## Komunikasi pola
 
-Document when to use direct calls/contracts, events, queues, scheduled jobs, or external APIs.
+dokumen ketika ke gunakan langsung calls/kontrak, event, queue, terjadwal job, atau eksternal API.
 
-## Security architecture
+## keamanan arsitektur
 
-## Reliability and failure handling
+## Keandalan dan kegagalan penanganan
 
-## Deployment topology
+## deployment topologi
 
 ## Observability
 
-## Trade-offs
+## Trade-off
 
-## Open architectural questions
+## Pertanyaan Terbuka arsitektural pertanyaan
 
-## Related ADRs
+## ADR Terkait

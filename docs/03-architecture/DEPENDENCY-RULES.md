@@ -1,19 +1,19 @@
-# Dependency Rules
+# Aturan Dependensi
 
-## Global Rules
+## Global aturan
 
-- Dependencies point toward stable abstractions and explicit contracts.
-- A module must not query another boundary's private tables directly.
-- Internal classes are not public APIs.
-- Cyclic boundary dependencies are forbidden unless an ADR documents a temporary migration state.
-- Shared Kernel additions require impact review because they increase coupling.
+- dependensi point toward stabil abstractions dan eksplisit kontrak.
+- module dilarang query module lain boundary's privat tabel secara langsung.
+- Internal class adalah tidak publik API.
+- siklik boundary dependensi adalah dilarang kecuali ADR dokumen sementara migrasi status.
+- Shared Kernel penambahan memerlukan dampak review karena mereka kenaikan coupling.
 
-## Rule Registry
+## aturan registry
 
-| Rule ID | Source | Allowed target | Forbidden target/access | Enforcement |
+| aturan ID | sumber | diizinkan target | dilarang target/access | penegakan |
 |---|---|---|---|---|
-| `DEP-001` | `<boundary/module>` | `<contract>` | `<internal model/table>` | architecture test / review |
+| `DEP-001` | `<boundary/module>` | `<contract>` | `<internal model/table>` | arsitektur pengujian / review |
 
-## Automated Enforcement
+## otomatis penegakan
 
-Document architecture tests, static checks, forbidden imports, namespace rules, or dependency graph checks here.
+dokumen arsitektur pengujian, static pemeriksaan, dilarang imports, namespace aturan, atau dependensi graf pemeriksaan here.

@@ -1,6 +1,6 @@
-# 05 Implementation Plan
+# 05 Rencana Implementasi
 
-> Required focus: Adapter boundary, sandbox, observability, rollout and rollback.
+> Fokus wajib: adapter boundary, sandbox, observability, rollout, dan rollback.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

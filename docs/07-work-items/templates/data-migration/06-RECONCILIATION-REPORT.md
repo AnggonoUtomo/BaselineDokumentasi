@@ -1,6 +1,6 @@
-# 06 Reconciliation Report
+# 06 Laporan Rekonsiliasi
 
-> Required focus: Counts, totals, hashes/samples, exceptions and sign-off.
+> Fokus wajib: jumlah data, total, hash/sample, exception, dan sign-off.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

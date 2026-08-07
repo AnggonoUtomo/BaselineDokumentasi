@@ -1,6 +1,6 @@
-# 04 Benchmark Report
+# 04 Laporan Benchmark
 
-> Required focus: Before/after metrics, variance, regressions, capacity and interpretation.
+> Fokus wajib: metrik sebelum/sesudah, variasi, regresi, kapasitas, dan interpretasi hasil.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

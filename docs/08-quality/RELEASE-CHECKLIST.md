@@ -1,38 +1,38 @@
-# Release Checklist
+# rilis Checklist
 
-## Scope
+## Ruang Lingkup
 
-- [ ] Release ID/version assigned.
-- [ ] Included tasks/features are completed and traceable.
-- [ ] No unapproved scope is included.
+- [ ] rilis ID/version assigned.
+- [ ] disertakan tasks/features adalah selesai dan traceable.
+- [ ] tidak ada unapproved scope adalah disertakan.
 
-## Quality
+## kualitas
 
-- [ ] Automated checks pass.
-- [ ] Review findings are resolved.
-- [ ] Security checks complete.
-- [ ] Performance checks complete where applicable.
+- [ ] otomatis pemeriksaan lulus.
+- [ ] review temuan adalah diselesaikan.
+- [ ] keamanan pemeriksaan selesai.
+- [ ] performa pemeriksaan selesai ketika berlaku.
 
-## Data and compatibility
+## data dan kompatibilitas
 
-- [ ] Migrations reviewed and tested.
-- [ ] Backup/restore considerations verified.
-- [ ] API/event compatibility verified.
+- [ ] Migrations reviewed dan diuji.
+- [ ] Backup/restore considerations diverifikasi.
+- [ ] API/event kompatibilitas diverifikasi.
 
-## Operations
+## operasional
 
-- [ ] Deployment steps verified.
-- [ ] Rollback steps verified.
-- [ ] Monitoring/alerts ready.
-- [ ] Support/incident owner identified.
+- [ ] deployment langkah diverifikasi.
+- [ ] rollback langkah diverifikasi.
+- [ ] Monitoring/alerts siap.
+- [ ] dukung/insiden pemilik identified.
 
-## Communication
+## Komunikasi
 
-- [ ] Release notes complete.
-- [ ] Known issues documented.
-- [ ] Stakeholders informed where required.
+- [ ] rilis catatan selesai.
+- [ ] diketahui issues terdokumentasi.
+- [ ] Stakeholders informed ketika wajib.
 
-## Decision
+## Keputusan
 
 ```yaml
 release_verdict: GO | NO_GO | CONDITIONAL_GO

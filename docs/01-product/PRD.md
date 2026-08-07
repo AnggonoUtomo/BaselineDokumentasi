@@ -1,33 +1,33 @@
-# Product Requirements Document
+# produk requirement dokumen
 
 ## Executive summary
 
-## Goals
+## tujuan
 
-## Non-goals
+## bukan tujuan
 
-## Users/personas
+## pengguna/personas
 
-## User journeys
+## pengguna journeys
 
-## Product requirements
+## produk requirement
 
-| ID | Requirement | Priority | Acceptance signal | Status |
+| ID | requirement | prioritas | penerimaan indikator | status |
 |---|---|---|---|---|
 
-## Functional overview
+## Fungsional overview
 
-## Non-functional expectations
+## non-fungsional expectations
 
-## Analytics and reporting
+## Analytics dan reporting
 
-## Dependencies
+## Dependensi
 
-## Risks
+## Risiko
 
-## Release strategy
+## Strategi Rilis
 
-## Approval
+## Persetujuan
 
 ```yaml
 status: draft

@@ -1,5 +1,5 @@
-# Baseline Manifest
+# Manifest Baseline
 
-> Snapshot identity, scope, source commit/release, approval and included records.
+> Identitas snapshot, scope, commit/release sumber, persetujuan, dan catatan yang disertakan.
 
-## Snapshot Data
+## Data Snapshot

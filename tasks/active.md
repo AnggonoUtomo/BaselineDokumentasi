@@ -1,12 +1,12 @@
-# Active Task
+# Task Aktif
 
-Only one primary task should be active per AI workstream.
+Hanya satu task utama sebaiknya aktif per AI workstream.
 
 - Task ID: `NONE`
-- Work-item path:
-- Status:
-- Started:
-- Owner/agent:
-- Current checkpoint:
-- Blockers:
-- Next verification:
+- work item path:
+- status:
+- Dimulai:
+- Pemilik/agent:
+- Saat Ini checkpoint:
+- Penghambat:
+- Verifikasi berikutnya:

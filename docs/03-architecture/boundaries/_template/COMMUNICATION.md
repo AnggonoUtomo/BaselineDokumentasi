@@ -1,11 +1,11 @@
-# Boundary Communication — <Boundary>
+# Komunikasi Boundary — <Boundary>
 
-## Synchronous Contracts
+## Kontrak Sinkron
 
-## Asynchronous Events
+## Event Asinkron
 
-## Queries / Read Models
+## Query / Read Model
 
-## Failure and Timeout Semantics
+## Semantik Kegagalan dan Timeout
 
-## Forbidden Communication
+## Komunikasi yang Dilarang

@@ -1,6 +1,6 @@
-# Baseline Snapshots
+# baseline Snapshots
 
-Create a snapshot for significant milestones or releases when historical reconstruction matters.
+buat snapshot untuk signifikan milestone atau rilis ketika historis reconstruction penting.
 
 ```text
 BL-YYYY-NNN-name/
@@ -11,4 +11,4 @@ BL-YYYY-NNN-name/
 └── RELEASE-REFERENCE.md
 ```
 
-Snapshots are immutable after approval. Corrections are appended as errata or superseding snapshots.
+Snapshots adalah immutable setelah persetujuan. Koreksi adalah ditambahkan sebagai errata atau pengganti snapshots.

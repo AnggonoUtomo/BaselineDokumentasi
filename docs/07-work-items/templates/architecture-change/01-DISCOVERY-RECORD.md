@@ -1,6 +1,6 @@
-# 01 Discovery Record
+# 01 Catatan Penemuan
 
-> Required focus: Emergent architectural observation, evidence, current task impact and open questions.
+> Fokus wajib: observasi arsitektur yang muncul saat development, bukti, dampak terhadap task aktif, dan pertanyaan terbuka.
 
 ## Metadata
 
@@ -11,16 +11,16 @@ owner: unassigned
 last_updated: YYYY-MM-DD
 ```
 
-## Purpose
+## Tujuan
 
-## Inputs and References
+## Input dan Referensi
 
-## Details
+## Detail
 
-## Decisions / Outcomes
+## Keputusan / Hasil
 
-## Risks and Open Questions
+## Risiko dan Pertanyaan Terbuka
 
-## Required Approvals
+## Persetujuan yang Diperlukan
 
-## Traceability
+## Keterlacakan

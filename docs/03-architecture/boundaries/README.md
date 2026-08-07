@@ -1,6 +1,6 @@
-# Boundary Documentation Registry
+# Registry Dokumentasi Boundary
 
-Each approved major boundary may have a dedicated directory:
+Setiap boundary utama yang disetujui dapat memiliki direktori khusus:
 
 ```text
 BC-<AREA>-<NNN>-<boundary-name>/
@@ -11,6 +11,6 @@ BC-<AREA>-<NNN>-<boundary-name>/
 └── EVOLUTION-LOG.md
 ```
 
-Create the directory only after an approved Architecture Change Package or during approved project bootstrap.
+Buat direktori hanya setelah paket perubahan arsitektur disetujui atau selama bootstrap proyek yang telah disetujui.
 
-Do not create empty boundary folders for speculative future needs.
+Jangan membuat folder boundary kosong untuk kebutuhan masa depan yang masih spekulatif.

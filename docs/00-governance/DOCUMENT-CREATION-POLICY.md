@@ -1,60 +1,60 @@
-# Document Creation and Evolution Policy
+# dokumen pembuatan dan evolusi kebijakan
 
-## Purpose
+## Tujuan
 
-This policy controls when AI or developers may create new documents during development. The baseline documentation is extensible, but its structure must evolve deliberately and traceably.
+Ini kebijakan mengatur ketika AI atau developer boleh buat baru dokumen selama development. baseline dokumentasi adalah extensible, tetapi -nya structure wajib berkembang deliberately dan traceably.
 
-## Core rule
+## Core aturan
 
-AI may create a new project document only when an existing approved template cannot represent a newly discovered concern without becoming ambiguous, overloaded, or untraceable.
+AI boleh buat baru proyek dokumen hanya ketika eksisting disetujui template tidak dapat represent baru ditemukan concern tanpa becoming ambigu, terlalu padat, atau tidak dapat ditelusuri.
 
-AI must not invent a parallel documentation system, rename baseline directories, or create arbitrary top-level folders.
+AI dilarang menciptakan paralel dokumentasi sistem, rename baseline directories, atau buat sembarang top-level folder.
 
-## Permitted cases
+## Permitted case
 
-A new document is permitted when at least one condition applies:
+ baru dokumen adalah permitted ketika at setidaknya satu kondisi berlaku:
 
-1. A new bounded context, module boundary, submodule, integration, security model, migration, or operational responsibility is discovered.
-2. An approved feature exposes a missing architectural decision or cross-module contract.
-3. The work needs separate pre-implementation and post-implementation evidence.
-4. A document would otherwise mix unrelated lifecycle states or responsibilities.
-5. A recurring document type appears in at least two work items and deserves a reusable template.
+1. baru terbatas konteks, module boundary, submodule, integrasi, keamanan model, migrasi, atau operasional tanggung jawab adalah ditemukan.
+2. disetujui fitur exposes missing arsitektural keputusan atau cross-module kontrak.
+3. pekerjaan needs terpisah pre-implementation dan post-implementation bukti.
+4. dokumen akan jika tidak mencampur tidak terkait lifecycle states atau tanggung jawab.
+5. berulang dokumen jenis muncul di at setidaknya dua pekerjaan item dan layak reusable template.
 
-## Required process
+## wajib proses
 
-Before creating a new document type or structure:
+sebelum membuat baru dokumen jenis atau structure:
 
-1. Search the baseline templates and existing project documents.
-2. Record why the existing templates are insufficient.
-3. Classify the change as project-specific document or reusable template.
-4. Create a `DOC-PROPOSAL` using `docs/07-work-items/templates/DOCUMENT-PROPOSAL.md`.
-5. For architecture changes, create an Architecture Change Package.
-6. Update `DOCUMENTATION-STANDARD.md` and relevant indexes if the proposal is approved.
-7. Preserve stable IDs and links from impacted documents.
+1. Search baseline template dan eksisting proyek dokumen.
+2. catat mengapa eksisting template adalah insufficient.
+3. klasifikasikan perubahan sebagai khusus proyek dokumen atau reusable template.
+4. buat `DOC-PROPOSAL` menggunakan `docs/07-work-items/templates/DOCUMENT-PROPOSAL.md`.
+5. untuk arsitektur perubahan, buat Arsitektur perubahan paket.
+6. perbarui `DOCUMENTATION-STANDARD.md` dan relevant indexes jika proposal adalah disetujui.
+7. pertahankan stabil ID dan tautan dari impacted dokumen.
 
-## Project-specific document
+## khusus proyek dokumen
 
-A project-specific document describes one concrete concern, for example:
+ khusus proyek dokumen describes satu konkret concern, untuk contoh:
 
 ```text
 docs/03-architecture/boundaries/BC-ACL-001-access-control/
 ```
 
-It does not automatically become a reusable template.
+itu tidak secara otomatis become reusable template.
 
-## Reusable template
+## reusable template
 
-A new reusable template may be added only when:
+ baru reusable template boleh menjadi ditambahkan hanya ketika:
 
-- the structure is expected to be reused;
-- its purpose does not overlap an existing template;
-- required lifecycle inputs and outputs are defined;
-- its creation rule is documented;
-- it has a stable location under `docs/07-work-items/templates/`.
+- structure adalah diharapkan ke menjadi reused;
+- -nya tujuan tidak tumpang tindih eksisting template;
+- wajib lifecycle input dan Output adalah didefinisikan;
+- -nya pembuatan aturan adalah terdokumentasi;
+- itu has stabil location di bawah `docs/07-work-items/templates/`.
 
-## Required metadata
+## Metadata Wajib
 
-Every new governed document must include:
+setiap baru terkelola dokumen wajib sertakan:
 
 ```yaml
 id:
@@ -69,10 +69,10 @@ source_work_item:
 related: []
 ```
 
-## Prohibited behavior
+## Larangan perilaku
 
-- Creating a new architecture folder while coding without pausing the task.
-- Treating an implementation discovery as an approved requirement.
-- Hiding scope growth inside an existing task.
-- Creating duplicate catalogs or competing sources of truth.
-- Updating code first and documenting the decision afterward, except emergency repair explicitly recorded as a deviation.
+- membuat baru arsitektur folder sementara coding tanpa pausing task.
+- Menganggap implementasi penemuan sebagai disetujui requirement.
+- menyembunyikan scope pertambahan di dalam eksisting task.
+- membuat duplicate catalogs atau competing sumber sumber kebenaran.
+- memperbarui kode pertama dan documenting keputusan afterward, kecuali darurat perbaikan secara eksplisit dicatat sebagai deviation.
